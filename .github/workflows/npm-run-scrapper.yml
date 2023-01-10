@@ -20,10 +20,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - run:
+      - run: |
           npm config set registry http://registry.npmjs.org
           npm install cheerio -E
-          node scrapping/index.js
+          npm run scrapper
           git config user.name bookreads-bot
           git add -A
           git commit -m "[bot] Update Database"
