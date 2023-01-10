@@ -23,7 +23,7 @@ jobs:
       - run:
           npm config set registry http://registry.npmjs.org
           npm install cheerio -E
-          npm run scrapper
+          node scrapping/index.js
           git config user.name bookreads-bot
           git add -A
           git commit -m "[bot] Update Database"
