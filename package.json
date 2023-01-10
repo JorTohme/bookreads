@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev:web": "next dev",
-    "dev:api": "npx wrangler dev src/index.js",
-    "publish:api": "npx wrangler publish src/index.js",
+    "dev:api": "npx wrangler dev api/index.js",
+    "publish:api": "npx wrangler publish api/index.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
