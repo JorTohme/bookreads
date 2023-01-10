@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: 18
       - run:
-          npm run scrapper
+          node scrapping/index.js
           git config user.name bookreads-bot
           git add -A
           git commit -m "[bot] Update Database"
