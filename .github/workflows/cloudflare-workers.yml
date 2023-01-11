@@ -25,6 +25,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         submodules: 'true'
+        workingDirectory: 'scrapping'
 
     # Setup npm
     - name: Setup NodeJS
