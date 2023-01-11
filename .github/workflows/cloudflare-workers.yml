@@ -25,7 +25,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         submodules: 'true'
-        repository: 'api'
+        workingDirectory: 'api'
 
     # Setup npm
     - name: Setup NodeJS
