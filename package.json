@@ -1,8 +1,8 @@
 {
   "name": "bookreads",
   "version": "0.1.0",
-  "main": "index.js",
   "type": "module",
+  "main": "api/index.js",
   "scripts": {
     "dev:web": "next dev",
     "dev:api": "npx wrangler dev api/index.js",
