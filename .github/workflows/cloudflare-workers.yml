@@ -43,4 +43,4 @@ jobs:
 
       run: |
         npm i @cloudflare/wrangler -g
-        npm run publish:api
+        wrangler publish
