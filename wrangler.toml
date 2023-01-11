@@ -1,7 +1,4 @@
 name = "bookreads-api"
-main = "index.js"
-workers_dev = true
-route = ""
-type = "javascript"
-zone_id = ""
+main = "api/index.js"
 compatibility_date = "2023-01-10"
+
