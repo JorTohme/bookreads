@@ -1,5 +1,7 @@
 name = "bookreads-api"
 main = "api/index.js"
 workers_dev = true
+route = ""
+type = JavaScript
 zone_id = ""
 compatibility_date = "2023-01-10"
