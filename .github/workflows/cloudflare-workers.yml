@@ -13,26 +13,18 @@ jobs:
   # This workflow contains a single job called "deploy"
   deploy:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    runs-on: ubuntu-22.04
+    timeout-minutes: 5
+    name: Deploy API
+    if: github.repository_owner == 'JorTohme'
+    environment: Production
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-      with:
-        submodules: 'true'
-
-    # Setup npm
-    - name: Setup NodeJS
-      uses: actions/setup-node@v1
-      with:
-        node-version: '12'
-
-    # Deploy
-    - name: Deploy via CloudFlare Workers
-      env:
-        CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-        CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-      run: |
-        npm i @cloudflare/wrangler -g
-        wrangler publish
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - uses: cloudflare/wrangler-action@2.0.0
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          workingDirectory: api
+          command: publish --env production
