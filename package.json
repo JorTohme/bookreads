@@ -6,7 +6,7 @@
   "scripts": {
     "dev:web": "next dev",
     "dev:api": "npx wrangler dev api/index.js",
-    "publish:api": "npx wrangler publish api/index.js",
+    "publish:api": "wrangler publish api/index.js",
     "scrapper": "node scrapping/index.js",
     "build": "next build",
     "start": "next start",
