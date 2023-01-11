@@ -2,3 +2,5 @@ name = "bookreads-api"
 main = "api/index.js"
 compatibility_date = "2023-01-10"
 
+[env.production]
+vars = { ENVIRONMENT = "production" }
