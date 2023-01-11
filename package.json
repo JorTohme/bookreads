@@ -1,7 +1,7 @@
 {
   "name": "bookreads",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "api/index.js",
   "type": "module",
   "scripts": {
     "dev:web": "next dev",
