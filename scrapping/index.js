@@ -1,10 +1,14 @@
 import * as cheerio from 'cheerio'
-
 import { writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
-// Books array
-const books = []
+import { loadBooksFromBlock, BOOK_BLOCKS, returnAll } from './utils.js'
+
+// Getting the actual date for the database
+const date = new Date()
+const day = date.getDate()
+const month = date.getMonth() + 1
+const year = date.getFullYear()
 
 // Scrapping
 const res = await fetch('https://www.bookdepository.com/es/')
@@ -13,56 +17,31 @@ const $ = cheerio.load(html)
 
 const $bookBlocks = $('div.block-wrap')
 
-// Book blocks indexes
-const BOOK_BLOCKS = {
-  BESTSELLERS: 'Bestselling Books',
-  BESTSELLING_NEW_RELEASES: 'Bestselling new releases',
-  BESTSELLING_MANGA: 'Bestselling Manga',
-  BESTSELLERS_SPANISH: 'Bestsellers in Spanish',
-  BESTSELLERS_CHILDREN: 'Children\'s Bestselling Books'
-}
+const bestsellers = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS)
+const bestsellersSpanish = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS_SPANISH)
+const bestsellersManga = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLING_MANGA)
 
-// ------------------------------------------------------------ //
+// Creating the scrapping files
 
-getBookBlock(BOOK_BLOCKS.BESTSELLERS_CHILDREN)
+const filePathBestsellers = path.join(process.cwd(), `./db/books/bestsellers/${day}-${month}-${year}.json`)
+await writeFile(filePathBestsellers, JSON.stringify(bestsellers, null, 2), 'utf-8')
 
-const filePath = path.join(process.cwd(), './db/books/books.json')
+const filePathBestsellersSpanish = path.join(process.cwd(), `./db/books/bestsellersSpanish/${day}-${month}-${year}.json`)
+await writeFile(filePathBestsellersSpanish, JSON.stringify(bestsellersSpanish, null, 2), 'utf-8')
 
-await writeFile(filePath, JSON.stringify(books, null, 2), 'utf-8')
+const filePathBestsellersManga = path.join(process.cwd(), `./db/books/bestsellersManga/${day}-${month}-${year}.json`)
+await writeFile(filePathBestsellersManga, JSON.stringify(bestsellersManga, null, 2), 'utf-8')
 
-// ------------------------------------------------------------ //
+// Creating the file with all the books
 
-// --Utils--
-// Regex to remove spaces
-function cleanText (text) {
-  return text
-    .replace(/\s/, '')
-    .replace(/\s\s+/g, '')
-}
+const ALL_BESTSELLERS = returnAll('bestsellers')
+const filePathAllBestsellers = path.join(process.cwd(), './db/books/bestsellers.json')
+await writeFile(filePathAllBestsellers, JSON.stringify(ALL_BESTSELLERS, null, 2), 'utf-8')
 
-// Add book to books array
-function addBook (title, author, price, coverImg, rating) {
-  books.push({
-    title,
-    author,
-    price,
-    coverImg,
-    rating
-  })
-}
+const ALL_BESTSELLERSINSPANISH = returnAll('bestsellersSpanish')
+const filePathAllBestsellersSpanish = path.join(process.cwd(), './db/books/bestsellersSpanish.json')
+await writeFile(filePathAllBestsellersSpanish, JSON.stringify(ALL_BESTSELLERSINSPANISH, null, 2), 'utf-8')
 
-// Get book block
-function getBookBlock (bookBlock) {
-  $bookBlocks.each((index, block) => {
-    if ($(block).find('h2').text() === bookBlock) {
-      $(block).find('div.book-item').each((index, book) => {
-        const title = cleanText($(book).find('h3.title').text())
-        const author = cleanText($(book).find('p.author').text())
-        const price = cleanText($(book).find('p.price').text())
-        const coverImg = $(book).find('img').attr('data-lazy')
-        const rating = $(book).find('div.rating-wrap').find('span.full-star').length + $(book).find('div.rating-wrap').find('span.half-star').length / 2
-        addBook(title, author, price, coverImg, rating)
-      })
-    }
-  })
-}
+const ALL_BESTSELLERSMANGA = returnAll('bestsellersManga')
+const filePathAllBestsellersManga = path.join(process.cwd(), './db/books/bestsellersManga.json')
+await writeFile(filePathAllBestsellersManga, JSON.stringify(ALL_BESTSELLERSMANGA, null, 2), 'utf-8')
