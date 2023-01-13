@@ -45,3 +45,24 @@ await writeFile(filePathAllBestsellersSpanish, JSON.stringify(ALL_BESTSELLERSINS
 const ALL_BESTSELLERSMANGA = returnAll('bestsellersManga')
 const filePathAllBestsellersManga = path.join(process.cwd(), './db/books/bestsellersManga.json')
 await writeFile(filePathAllBestsellersManga, JSON.stringify(ALL_BESTSELLERSMANGA, null, 2), 'utf-8')
+
+// Total books
+
+// const totalBooks = Object.keys(ALL_BESTSELLERS.for).length + Object.keys(ALL_BESTSELLERSINSPANISH).length + Object.keys(ALL_BESTSELLERSMANGA).length
+
+let totalBooks = 0
+
+for (const day in ALL_BESTSELLERS) {
+  totalBooks += Object.entries(day).length
+}
+
+for (const day in ALL_BESTSELLERSINSPANISH) {
+  totalBooks += Object.entries(day).length
+}
+
+for (const day in ALL_BESTSELLERSMANGA) {
+  totalBooks += Object.entries(day).length
+}
+
+const filePathTotalBooks = path.join(process.cwd(), './db/books/totalBooks.json')
+await writeFile(filePathTotalBooks, JSON.stringify(totalBooks, null, 2), 'utf-8')

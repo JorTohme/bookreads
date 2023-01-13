@@ -4,6 +4,7 @@ import { cors } from 'hono/cors'
 import bestsellers from '../db/books/bestsellers.json'
 import bestsellersSpanish from '../db/books/bestsellersSpanish.json'
 import bestsellersManga from '../db/books/bestsellersManga.json'
+import totalBooks from '../db/books/totalBooks.json'
 
 const app = new Hono()
 app.use(cors({ origin: '*' }))
@@ -38,6 +39,10 @@ app.get('/', (context) => context.json([
       format: 'DD-MM-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023',
       description: 'Returns all the manga bestsellers on the specified day'
     }
+  },
+  {
+    endpoint: '/totalBooks',
+    description: 'Returns the number of books in the database'
   }
 ])
 )
@@ -72,6 +77,12 @@ app.get('/bestsellersManga', (context) =>
 app.get('/bestsellersManga/:date', (context) => {
   const date = context.req.param('date')
   return bestsellersManga[date] ? context.json(bestsellersManga[date]) : context.json({ error: 'No books found for that date' })
+})
+
+// Total books
+
+app.get('/totalBooks', (context) => {
+  return context.json({ totalBooks })
 })
 
 export default app
