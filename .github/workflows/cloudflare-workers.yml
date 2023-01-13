@@ -7,6 +7,10 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  workflow_run:
+    workflows: ["Scrape Bookdepository website"]
+    types:
+      - completed
   workflow_dispatch:
   repository_dispatch:
     types:
