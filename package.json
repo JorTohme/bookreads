@@ -4,10 +4,16 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "astro": "astro",
+    "build": "astro build",
     "dev:api": "npx wrangler dev api/index.js",
-    "scrapper": "node scrapping/index.js"
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "scrapper": "node scrapping/index.js",
+    "start": "astro dev"
   },
   "dependencies": {
+    "astro": "1.9.0",
     "cheerio": "1.0.0-rc.12",
     "eslint": "8.31.0",
     "hono": "2.7.2"
