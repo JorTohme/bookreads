@@ -1,9 +1,7 @@
 <div align="center">
 <h1>Bookreads Project</h1>
 
-[![Scrap Bookdepository](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml)
-
-[![Deploy API](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml)
+[![Scrap Bookdepository](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml) [![Deploy API](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml)
 
 <h2><a href='https://bookreads-api-production.jortohme.workers.dev/'>API</a> (En desarollo) | <a href='https://kingsleague.dev'>WEB (Proximamente)</a></h2>
 </div>
