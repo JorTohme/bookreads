@@ -15,7 +15,7 @@ La idea del proyecto nace al ver el proyecto de la [Kings League Infojobs](https
 ## Tecnologías usadas
 
 ### API y Scrapper
-Para la API uso *Web Scraping* con [Node.js](https://nodejs.org/es/) y [Cheerio.js](https://github.com/cheeriojs/cheerio), los datos son extraídos repitiendo este script mediante Github Actions programadas en Crontab (ver el fichero *.github/workflows*) y se almacenan en un fichero JSON (ver fichero *db*). Al instante que se actualiza la información, se despliega la API en Cloudflare Workers](https://workers.cloudflare.com/) (ver fichero *wrangler.toml* y *api/index.js*). La API está desarrollada con [Node.js](https://nodejs.org/es/) y [Hono](https://honojs.dev/) desplegada en [Cloudflare Workers](https://workers.cloudflare.com/).
+Para la API uso *Web Scraping* con [Node.js](https://nodejs.org/es/) y [Cheerio.js](https://github.com/cheeriojs/cheerio), los datos son extraídos repitiendo este script mediante Github Actions programadas en Crontab (ver el fichero *.github/workflows*) y se almacenan en un fichero JSON (ver fichero *db*). Al instante que se actualiza la información, se despliega la API en [Cloudflare Workers](https://workers.cloudflare.com/) (ver fichero *wrangler.toml* y *api/index.js*). La API está desarrollada con [Node.js](https://nodejs.org/es/) y [Hono](https://honojs.dev/).
 
 **¿Por qué Cloudflare Workers?** Porque es un servicio de hosting de APIs gratuito y muy fácil de usar. Además la API se distribuye en puntos alrededor de todo el mundo y esto permite latencias mínimas en todos los países.
 
