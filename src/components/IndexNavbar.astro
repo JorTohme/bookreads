@@ -1,0 +1,30 @@
+---
+import hpphrases from './assets/hpphrases.json'
+
+const keys = Object.keys(hpphrases);
+const book = keys[Math.floor(Math.random()*keys.length)]
+const phrase = hpphrases[book][Math.floor(Math.random()*hpphrases[book].length)]
+---
+
+<nav class="min-h-screen w-1/5 py-5 flex flex-col gap-12 fontRoboto">
+  <div class="px-3 border-r-2 border-b-2">
+    <div class="text-xl font-bold my-2">Sagas más vendidas</div>
+    <div class="flex flex-col gap-y-1.5">
+      <div class="cursor-pointer">One piece</div>
+      <div class="cursor-pointer">Harry Potter</div>
+      <div class="cursor-pointer">Goosebumps</div>
+      <div class="cursor-pointer">Test</div>
+      <div class="cursor-pointer">Test</div>
+      <div class="cursor-pointer">Test</div>
+      <div class="cursor-pointer">Test</div>
+    </div>
+  </div>
+  <div class="px-1 text-center border-r-2 border-b-2">
+    <img src="/navimg.png" alt="Navimg" class="border-4 border-yellow-500"/>
+    Mas vendido en Argentina hoy
+  </div>
+  <div class="border-r-2 border-b-2">
+    <p class="text-lg my-4"> "{phrase}" <br /> </p>
+    <span class="text-sm"> Del libro <span class="font-bold">{book}</span> </span>
+  </div>
+</nav>
