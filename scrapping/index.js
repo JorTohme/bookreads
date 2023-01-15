@@ -48,8 +48,6 @@ await writeFile(filePathAllBestsellersManga, JSON.stringify(ALL_BESTSELLERSMANGA
 
 // Total books
 
-// const totalBooks = Object.keys(ALL_BESTSELLERS.for).length + Object.keys(ALL_BESTSELLERSINSPANISH).length + Object.keys(ALL_BESTSELLERSMANGA).length
-
 let totalBooks = 0
 
 for (const day in ALL_BESTSELLERS) {
