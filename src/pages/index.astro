@@ -6,21 +6,57 @@ import IndexNavbar from '../components/IndexNavbar.astro'
 
 const response = await fetch('https://bookreads-api-production.jortohme.workers.dev/bestsellers')
 const data = await response.json()
+
+const response2 = await fetch('https://bookreads-api-production.jortohme.workers.dev/bestsellersSpanish')
+const data2 = await response2.json()
+
+const today = Object.keys(data)[Object.keys(data).length - 1].replace(/-/g, '/')
 ---
 
 <Layout title="Welcome to Astro.">
 	<Header />
 
 	<div class="flex justify-center">
-		<div class="flex max-w-7xl lg:w-3/4">
+
+		<div class="flex max-w-7xl lg:w-3/4 gap-2">
 			
 			<IndexNavbar />
 
-			<main class="w-full py-5 text-center">
-				<h1 class="text-3xl font-extrabold md:text-5xl">Bienvenido a <span class="text-gradient">Bookreads</span></h1>
-				<p class="text-xl">
-					Mira el top diario de libros vendidos en <a href="https://www.bookdepository.com/es/" target="_blank" class="text-blue-500">Bookdepository</a>.<br />
-				</p>
+			<main class="w-9/12 py-5 text-center flex flex-col gap-2">
+				<div class="py-14 shadow-md bg-white">
+					<h1 class="text-3xl font-extrabold md:text-5xl">Bienvenido a <span class="text-gradient">Bookreads</span></h1>
+					<p class="text-xl">
+						Mira el top diario de libros vendidos en <a href="https://www.bookdepository.com/es/" target="_blank" class="text-blue-500">Bookdepository</a>.<br />
+					</p>
+				</div>
+
+				<div class="px-2 h-fit shadow-md bg-white text-left ">
+					<p class="text-xl font-semibold">Bestsellers</p>
+					<div class="scrollx py-2 overflow-x-scroll">
+						<div class="px-2 w-fit flex gap-8 ">
+							{data[Object.keys(data)[Object.keys(data).length - 1]].map((book) => (
+								<div class="h-60 w-28 overflow-y-hidden hover:overflow-visible hover:h-fit">
+									<img src={book.coverImg} />
+									<p class="font-bold text-sm">{book.title}</p>
+								</div>
+							))}
+						</div>
+					</div>
+				</div>
+
+				<div class="px-2 h-fit shadow-md bg-white text-left ">
+					<p class="text-xl font-semibold">Bestsellers en español</p>
+					<div class="scrollx py-2 overflow-x-scroll">
+						<div class="px-2 w-fit flex gap-8 ">
+							{data2[Object.keys(data2)[Object.keys(data2).length - 1]].map((book) => (
+								<div class="h-60 w-28 overflow-y-hidden hover:overflow-visible hover:h-fit">
+									<img src={book.coverImg} />
+									<p class="font-bold text-sm">{book.title}</p>
+								</div>
+							))}
+						</div>
+					</div>
+				</div>		
 			</main>
 		</div>
 	</div>

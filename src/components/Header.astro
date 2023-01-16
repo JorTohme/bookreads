@@ -5,13 +5,13 @@ const totalBooks = await totalBooksRes.json()
 
 <header>
   <div class="fontRoboto h-10 p-1 bg-purple-900 flex justify-center items-center">
-    <div class="w-3/4 max-w-7xl flex justify-between text-white">
+    <div class="w-3/4 max-w-7xl flex justify-between">
       <div class="flex gap-5">
         <a href="/"><img src="/blanco.svg" alt="Ir al inicio" class="w-6"/></a>
-        <a href="https://www.bookdepository.com/es/" target="_blank"><p>Ir a Bookdepository</p></a>
-        <a href="https://www.cuspide.com/" target="_blank"><p>Ir a Cúspide (ARG)</p></a>
+        <a href="https://www.bookdepository.com/es/" target="_blank" class="text-gray-200 hover:text-white"><p>Ir a Bookdepository</p></a>
+        <a href="https://www.cuspide.com/" target="_blank" class="text-gray-200 hover:text-white"><p>Ir a Cúspide (ARG)</p></a>
       </div>
-      <p>Libros: {totalBooks['totalBooks']}</p>
+      <p class="text-white">Libros: {totalBooks['totalBooks']}</p>
     </div>
   </div>
   <div  class="p-2 h-24 bg-purple-700 bg-opacity-70 flex justify-center">
