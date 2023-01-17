@@ -3,7 +3,7 @@
 
 [![Scrap Bookdepository](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml) [![Deploy API](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml)
 
-<h2><a href='https://api.bookreads.dev/'>API</a> (En desarollo) | <a href='https://bookreads.dev'/>WEB</a> (Proximamente)</h2>
+<h2><a href='https://api.bookreads.dev/' target="_blank">API</a> (En desarollo) | <a href='https://bookreads.dev' target="_blank"/>WEB</a> (Proximamente)</h2>
 </div>
 
 ## Descripción y por qué del proyecto
@@ -39,3 +39,13 @@ Endpoints: **CONTINUA EN DESARROLLO**
 - GET `/bestsellersSpanish/:date`: Devuelve los bestsellers de ese día en Bookdepository.
 - GET `/bestsellersManga`: Devuelve un json con objetos de key fechas y value los bestsellers de manga en esa fecha en Bookdepository.
 - GET `/bestsellersManga/:date`: Devuelve los bestsellers de manga de ese día en Bookdepository.
+
+# To-do
+
+- [ ] Scrappear más datos de Bookdepository
+- [ ] Scrappear datos de Cúspide
+- [ ] Añadir más endpoints a la API
+- [ ] Añadir responsive design a la página web
+- [ ] Añadir análisis de datos a la página web
+- [ ] Añadir sistema de reseñas a la página web
+- [ ] Añadir sistema de login a la página web
