@@ -3,7 +3,7 @@ const { data } = Astro.props
 ---
 
 <div class="px-2 w-fit flex justify-center gap-2">
-  {data[Object.keys(data)[Object.keys(data).length - 1]].map((book) => (
+  {data.map((book) => (
     <div class="w-36 py-2 overflow-y-hidden hover:overflow-visible hover:h-fit flex flex-col gap-2">
       <img class="w-28" src={book.coverImg} />
       <p class="max-h-6 h-6 font-bold text-md overflow-hidden hover:max-h-fit hover:h-fit">{book.title}</p>
