@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro'
 import Header from '../components/Header.astro'
 import Footer from '../components/Footer.astro'
 import IndexNavbar from '../components/IndexNavbar.astro'
+import Books from '../components/Books.astro'
 
 const response = await fetch('https://bookreads-api-production.jortohme.workers.dev/bestsellers')
 const data = await response.json()
@@ -14,11 +15,11 @@ const today = Object.keys(data)[Object.keys(data).length - 1].replace(/-/g, '/')
 ---
 
 <Layout title="Welcome to Astro.">
+	
 	<Header />
 
 	<div class="flex justify-center">
-
-		<div class="flex max-w-7xl lg:w-3/4 gap-2">
+		<div class="flex max-w-7xl w-3/4 gap-2">
 			
 			<IndexNavbar />
 
@@ -30,33 +31,24 @@ const today = Object.keys(data)[Object.keys(data).length - 1].replace(/-/g, '/')
 					</p>
 				</div>
 
-				<div class="px-2 h-fit shadow-md bg-white text-left ">
+				<div class="px-2 py-1 h-fit shadow-md bg-white text-left ">
 					<p class="text-xl font-semibold">Bestsellers</p>
 					<div class="scrollx py-2 overflow-x-scroll">
-						<div class="px-2 w-fit flex gap-8 ">
-							{data[Object.keys(data)[Object.keys(data).length - 1]].map((book) => (
-								<div class="h-60 w-28 overflow-y-hidden hover:overflow-visible hover:h-fit">
-									<img src={book.coverImg} />
-									<p class="font-bold text-sm">{book.title}</p>
-								</div>
-							))}
-						</div>
+
+						<Books data={data} />
+
 					</div>
 				</div>
 
-				<div class="px-2 h-fit shadow-md bg-white text-left ">
+				<div class="px-2 py-1 h-fit shadow-md bg-white text-left ">
 					<p class="text-xl font-semibold">Bestsellers en español</p>
 					<div class="scrollx py-2 overflow-x-scroll">
-						<div class="px-2 w-fit flex gap-8 ">
-							{data2[Object.keys(data2)[Object.keys(data2).length - 1]].map((book) => (
-								<div class="h-60 w-28 overflow-y-hidden hover:overflow-visible hover:h-fit">
-									<img src={book.coverImg} />
-									<p class="font-bold text-sm">{book.title}</p>
-								</div>
-							))}
-						</div>
+						
+						<Books data={data2} />
+
 					</div>
-				</div>		
+				</div>	
+
 			</main>
 		</div>
 	</div>
