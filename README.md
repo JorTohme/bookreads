@@ -3,7 +3,7 @@
 
 [![Scrap Bookdepository](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml) [![Deploy API](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml)
 
-<h2><a href='https://bookreads-api-production.jortohme.workers.dev/'>API</a> (En desarollo) | <a>WEB</a> (Proximamente)</h2>
+<h2><a href='https://api.bookreads.dev/'>API</a> (En desarollo) | <a>WEB</a> (Proximamente)</h2>
 </div>
 
 ## Descripción y por qué del proyecto
@@ -27,7 +27,9 @@ La página web está desarrollada con el framework [Astro](https://astro.build/)
 
 ## API
 
-Dirección de la API: https://bookreads-api-production.jortohme.workers.dev/
+Dirección de la API: https://api.bookreads.dev/
+
+Para el proyecto se compró un dominio personalizado en [Porkbun](https://porkbun.com/) (https://bookreads.dev/) y se usa el subdominio *api* para la API.
 
 Endpoints: **CONTINUA EN DESARROLLO**
 
