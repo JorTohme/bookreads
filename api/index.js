@@ -3,7 +3,7 @@ import { cors } from 'hono/cors'
 
 import bestsellers from '../db/books/bestsellers.json'
 import bestsellersSpanish from '../db/books/bestsellersSpanish.json'
-import bestsellersManga from '../db/books/bestsellersManga.json'
+import bestsellersChildren from '../db/books/bestsellers-children.json'
 import totalBooks from '../db/books/totalBooks.json'
 
 const app = new Hono()
@@ -70,13 +70,13 @@ app.get('/bestsellersSpanish/:date', (context) => {
 
 // Bestsellers Manga
 
-app.get('/bestsellersManga', (context) =>
-  context.json(bestsellersSpanish)
+app.get('/bestsellers-children', (context) =>
+  context.json(bestsellersChildren)
 )
 
-app.get('/bestsellersManga/:date', (context) => {
+app.get('/bestsellers-children/:date', (context) => {
   const date = context.req.param('date')
-  return bestsellersManga[date] ? context.json(bestsellersManga[date]) : context.json({ error: 'No books found for that date' })
+  return bestsellersChildren[date] ? context.json(bestsellersChildren[date]) : context.json({ error: 'No books found for that date' })
 })
 
 // Total books
