@@ -19,7 +19,7 @@ const $bookBlocks = $('div.block-wrap')
 
 const bestsellers = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS)
 const bestsellersSpanish = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS_SPANISH)
-const bestsellersManga = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLING_MANGA)
+const bestsellersChildren = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS_CHILDREN)
 
 // Creating the scrapping files
 
@@ -29,8 +29,8 @@ await writeFile(filePathBestsellers, JSON.stringify(bestsellers, null, 2), 'utf-
 const filePathBestsellersSpanish = path.join(process.cwd(), `./db/books/bestsellersSpanish/${day}-${month}-${year}.json`)
 await writeFile(filePathBestsellersSpanish, JSON.stringify(bestsellersSpanish, null, 2), 'utf-8')
 
-const filePathBestsellersManga = path.join(process.cwd(), `./db/books/bestsellersManga/${day}-${month}-${year}.json`)
-await writeFile(filePathBestsellersManga, JSON.stringify(bestsellersManga, null, 2), 'utf-8')
+const filePathBestsellersChildren = path.join(process.cwd(), `./db/books/bestsellers-children/${day}-${month}-${year}.json`)
+await writeFile(filePathBestsellersChildren, JSON.stringify(bestsellersChildren, null, 2), 'utf-8')
 
 // Creating the file with all the books
 
@@ -42,9 +42,9 @@ const ALL_BESTSELLERSINSPANISH = returnAll('bestsellersSpanish')
 const filePathAllBestsellersSpanish = path.join(process.cwd(), './db/books/bestsellersSpanish.json')
 await writeFile(filePathAllBestsellersSpanish, JSON.stringify(ALL_BESTSELLERSINSPANISH, null, 2), 'utf-8')
 
-const ALL_BESTSELLERSMANGA = returnAll('bestsellersManga')
-const filePathAllBestsellersManga = path.join(process.cwd(), './db/books/bestsellersManga.json')
-await writeFile(filePathAllBestsellersManga, JSON.stringify(ALL_BESTSELLERSMANGA, null, 2), 'utf-8')
+const ALL_BESTSELLERSCHILDREN = returnAll('bestsellers-children')
+const filePathAllBestsellersChildren = path.join(process.cwd(), './db/books/bestsellers-children.json')
+await writeFile(filePathAllBestsellersChildren, JSON.stringify(ALL_BESTSELLERSCHILDREN, null, 2), 'utf-8')
 
 // Total books
 
@@ -58,7 +58,7 @@ for (const day in ALL_BESTSELLERSINSPANISH) {
   totalBooks += Object.entries(day).length
 }
 
-for (const day in ALL_BESTSELLERSMANGA) {
+for (const day in ALL_BESTSELLERSCHILDREN) {
   totalBooks += Object.entries(day).length
 }
 

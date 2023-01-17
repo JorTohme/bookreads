@@ -31,13 +31,13 @@ app.get('/', (context) => context.json([
     }
   },
   {
-    endpoint: '/bestsellersManga',
-    description: 'Returns all the manga bestsellers',
+    endpoint: '/bestsellers-children',
+    description: 'Returns all the children\'s bestsellers',
     parameters: {
       name: 'date',
-      endpoint: '/bestsellersManga/:date',
+      endpoint: '/bestsellers-children/:date',
       format: 'DD-MM-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023',
-      description: 'Returns all the manga bestsellers on the specified day'
+      description: 'Returns all the children\'s bestsellers on the specified day'
     }
   },
   {
