@@ -68,7 +68,7 @@ app.get('/bestsellersSpanish/:date', (context) => {
   return bestsellersSpanish[date] ? context.json(bestsellersSpanish[date]) : context.json({ error: 'No books found for that date' })
 })
 
-// Bestsellers Manga
+// Bestsellers Children
 
 app.get('/bestsellers-children', (context) =>
   context.json(bestsellersChildren)
