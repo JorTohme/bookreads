@@ -17,7 +17,7 @@ app.get('/', (context) => context.json([
       name: 'date',
       endpoint: '/bestsellers/:date',
       description: 'Returns all the bestsellers books on the specified day',
-      format: 'DD-MM-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023'
+      format: 'DD-M-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023'
     }
   },
   {
@@ -26,7 +26,7 @@ app.get('/', (context) => context.json([
     parameters: {
       name: 'date',
       endpoint: '/bestsellersSpanish/:date',
-      format: 'DD-MM-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023',
+      format: 'DD-M-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023',
       description: 'Returns all the bestsellers in spanish on the specified day'
     }
   },
@@ -36,7 +36,7 @@ app.get('/', (context) => context.json([
     parameters: {
       name: 'date',
       endpoint: '/bestsellers-children/:date',
-      format: 'DD-MM-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023',
+      format: 'DD-M-YYYY | Months an days with one digit must NOT have a 0 before the number. Example: 12-1-2023',
       description: 'Returns all the children\'s bestsellers on the specified day'
     }
   },
