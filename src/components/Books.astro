@@ -10,7 +10,7 @@ const { data } = Astro.props
       <p class="text-sm max-h-5 overflow-hidden hover:max-h-fit hover:h-fit">{book.author}</p>
       <div class="w-full">
           {
-            book.rating === 0 ? <p class="text-xs">Sin puntuación aún</p> : <img src={`/stars/${book.rating.toString()}.svg`} alt="" class="w-20"/>
+            book.rating === 0 ? <p class="text-xs">Sin puntuación aún</p> : <img src={`/stars/${book.rating.toString()}.svg`} alt={`${book.title}`} class="w-20"/>
           }
         </div>
     </div>
