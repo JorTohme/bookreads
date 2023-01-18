@@ -4,6 +4,9 @@
 [![Scrap Bookdepository](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml) [![Deploy API](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml)
 
 <h2><a href='https://api.bookreads.dev/' target="_blank">API</a> (En desarollo) | <a href='https://bookreads.dev' target="_blank"/>WEB</a> (En desarollo)</h2>
+
+![Mockup API Web](ui-mockup-web-api.png)
+
 </div>
 
 ## Descripción y por qué del proyecto
