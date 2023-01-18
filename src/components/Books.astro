@@ -5,12 +5,12 @@ const { data } = Astro.props
 <div class="px-2 w-fit flex justify-center gap-2">
   {data.map((book) => (
     <div class="w-36 py-2 overflow-y-hidden hover:overflow-visible hover:h-fit flex flex-col gap-2">
-      <img class="w-28" src={book.coverImg} />
+      <img class="w-28" src={book.coverImg} alt={`${book.title} cover`}/>
       <p class="max-h-6 h-6 font-bold text-md overflow-hidden hover:max-h-fit hover:h-fit">{book.title}</p>
       <p class="text-sm max-h-5 overflow-hidden hover:max-h-fit hover:h-fit">{book.author}</p>
       <div class="w-full">
           {
-            book.rating === 0 ? <p class="text-xs">Sin puntuación aún</p> : <img src={`/stars/${book.rating.toString()}.svg`} alt={`${book.title}`} class="w-20"/>
+            book.rating === 0 ? <p class="text-xs">Sin puntuación aún</p> : <img src={`/stars/${book.rating.toString()}.svg`} alt={`${book.rating} estrellas`} class="w-20"/>
           }
         </div>
     </div>
