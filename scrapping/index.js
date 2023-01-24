@@ -10,7 +10,7 @@ const day = date.getDate()
 const month = date.getMonth() + 1
 const year = date.getFullYear()
 
-// Scrapping
+// Scrapping Bookdepository
 const res = await fetch('https://www.bookdepository.com/es/')
 const html = await res.text()
 const $ = cheerio.load(html)
@@ -21,8 +21,14 @@ const bestsellers = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS)
 const bestsellersSpanish = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS_SPANISH)
 const bestsellersChildren = loadBooksFromBlock($, $bookBlocks, BOOK_BLOCKS.BESTSELLERS_CHILDREN)
 
-// Creating the scrapping files
+// Scrapping Cúspide
+const resCuspide = await fetch('https://www.cuspide.com/')
+const htmlCuspide = await resCuspide.text()
+const $cuspide = cheerio.load(htmlCuspide)
 
+const bestselledThisWeek = $cuspide('img#ctl00_ContentPlaceHolder1_top100_rptMasVendidos_ctl00_img_tapa').attr('data-original')
+
+// Creating the scrapping files
 const filePathBestsellers = path.join(process.cwd(), `./db/books/bestsellers/${day}-${month}-${year}.json`)
 await writeFile(filePathBestsellers, JSON.stringify(bestsellers, null, 2), 'utf-8')
 
@@ -32,8 +38,10 @@ await writeFile(filePathBestsellersSpanish, JSON.stringify(bestsellersSpanish, n
 const filePathBestsellersChildren = path.join(process.cwd(), `./db/books/bestsellers-children/${day}-${month}-${year}.json`)
 await writeFile(filePathBestsellersChildren, JSON.stringify(bestsellersChildren, null, 2), 'utf-8')
 
-// Creating the file with all the books
+const filePathBestselledThisWeek = path.join(process.cwd(), './db/books/bestselledThisWeek.json')
+await writeFile(filePathBestselledThisWeek, JSON.stringify(bestselledThisWeek, null, 2), 'utf-8')
 
+// Creating the file with all the books
 const ALL_BESTSELLERS = returnAll('bestsellers')
 const filePathAllBestsellers = path.join(process.cwd(), './db/books/bestsellers.json')
 await writeFile(filePathAllBestsellers, JSON.stringify(ALL_BESTSELLERS, null, 2), 'utf-8')
@@ -47,7 +55,6 @@ const filePathAllBestsellersChildren = path.join(process.cwd(), './db/books/best
 await writeFile(filePathAllBestsellersChildren, JSON.stringify(ALL_BESTSELLERSCHILDREN, null, 2), 'utf-8')
 
 // Total books
-
 let totalBooks = 0
 
 for (const day in ALL_BESTSELLERS) {

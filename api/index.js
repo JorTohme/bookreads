@@ -5,6 +5,7 @@ import bestsellers from '../db/books/bestsellers.json'
 import bestsellersSpanish from '../db/books/bestsellersSpanish.json'
 import bestsellersChildren from '../db/books/bestsellers-children.json'
 import totalBooks from '../db/books/totalBooks.json'
+import bestselledThisWeek from '../db/books/bestselledThisWeek.json'
 
 const app = new Hono()
 app.use(cors({ origin: '*' }))
@@ -83,6 +84,12 @@ app.get('/bestsellers-children/:date', (context) => {
 
 app.get('/totalBooks', (context) => {
   return context.json({ totalBooks })
+})
+
+// Bestselled this week from Cúspide
+
+app.get('/bestselledThisWeek', (context) => {
+  return context.json(bestselledThisWeek)
 })
 
 export default app
