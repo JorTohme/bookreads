@@ -22,11 +22,11 @@ app.get('/', (context) => context.json([
     }
   },
   {
-    endpoint: '/bestsellersSpanish',
+    endpoint: '/bestsellers-spanish',
     description: 'Returns all the bestsellers in spanish',
     parameters: {
       name: 'date',
-      endpoint: '/bestsellersSpanish/:date',
+      endpoint: '/bestsellers-spanish/:date',
       format: 'DD-M-YYYY | Months and days with one digit must NOT have a 0 before the number. Example: 12-1-2023',
       description: 'Returns all the bestsellers in spanish on the specified day'
     }
@@ -42,8 +42,12 @@ app.get('/', (context) => context.json([
     }
   },
   {
-    endpoint: '/totalBooks',
+    endpoint: '/total-books',
     description: 'Returns the number of books in the database'
+  },
+  {
+    endpoint: '/bestselled-this-week',
+    description: 'Returns img of the bestselled book in Argentina on the actual week in Cúspide'
   }
 ])
 )
@@ -60,11 +64,11 @@ app.get('/bestsellers/:date', (context) => {
 
 // Bestsellers in Spanish
 
-app.get('/bestsellersSpanish', (context) =>
+app.get('/bestsellers-spanish', (context) =>
   context.json(bestsellersSpanish)
 )
 
-app.get('/bestsellersSpanish/:date', (context) => {
+app.get('/bestsellers-spanish/:date', (context) => {
   const date = context.req.param('date')
   return bestsellersSpanish[date] ? context.json(bestsellersSpanish[date]) : context.json({ error: 'No books found for that date' })
 })
@@ -82,13 +86,13 @@ app.get('/bestsellers-children/:date', (context) => {
 
 // Total books
 
-app.get('/totalBooks', (context) => {
+app.get('/total-books', (context) => {
   return context.json({ totalBooks })
 })
 
 // Bestselled this week from Cúspide
 
-app.get('/bestselledThisWeek', (context) => {
+app.get('/bestselled-this-week', (context) => {
   return context.json(bestselledThisWeek)
 })
 

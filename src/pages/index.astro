@@ -14,7 +14,7 @@ const today = `${day}-${month}-${year}`
 let response = await fetch(`https://api.bookreads.dev/bestsellers/${today}`)
 const bestsellers = await response.json()
 
-response = await fetch(`https://api.bookreads.dev/bestsellersSpanish/${today}`)
+response = await fetch(`https://api.bookreads.dev/bestsellers-spanish/${today}`)
 const bestsellersSpanish = await response.json()
 
 response = await fetch(`https://api.bookreads.dev/bestsellers-children/${today}`)
