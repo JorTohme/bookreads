@@ -1681,5 +1681,133 @@
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
       "rating": 4
     }
+  ],
+  "24-1-2023": [
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "17,43 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
+    },
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "10,24 €PVPR:14,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "12,99 €PVPR:14,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "18,19 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "22,46 €PVPR:22,98 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
+      "author": "Hirohiko Araki",
+      "price": "17,89 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "18,22 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "17,26 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 4
+    },
+    {
+      "title": "EASIEST PIANO COURSE PART ONE",
+      "author": "Willis Music Company",
+      "price": "8,92 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8771/9780877180128.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Traguese Ese Sapo! Ed. Revisada",
+      "author": "Brian Tracy",
+      "price": "15,28 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4929/9788492921744.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Preparacion DELE",
+      "author": "Andrea Fabiana Hidalgo",
+      "price": "29,12 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490817216.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Hábitos atómicos",
+      "author": "James Clear",
+      "price": "28,48 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4181/9788418118036.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Nosotros en la luna. Edición especial",
+      "author": "Alice Kellen",
+      "price": "35,33 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266860.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Birthday Girl",
+      "author": "Penelope Douglas",
+      "price": "17,26 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266709.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Reina de sombras",
+      "author": "MAAS, SARAH J.",
+      "price": "18,99 €PVPR:19,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9786/0731/9786073152464.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "LOS ANGELES DEL AMOR",
+      "author": "Virtue Doreen",
+      "price": "23,15 €PVPR:31,44 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9782/8132/9782813217882.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "13,98 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "POCO PIANO FOR YOUNG CHILDREN",
+      "author": "O SULLIVAN FARREL, MARGARET",
+      "price": "9,46 €PVPR:9,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/8343/9789834304829.jpg",
+      "rating": 3
+    }
   ]
 }
