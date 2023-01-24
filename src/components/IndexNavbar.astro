@@ -1,6 +1,9 @@
 ---
 import hpphrases from './assets/hpphrases.json'
 
+const bestselledThisWeekRes = await fetch('https://api.bookreads.dev/bestselled-this-week')
+const bestselledThisWeek = await bestselledThisWeekRes.json()
+
 const keys = Object.keys(hpphrases);
 const book = keys[Math.floor(Math.random()*keys.length)]
 const phrase = hpphrases[book][Math.floor(Math.random()*hpphrases[book].length)]
@@ -20,7 +23,7 @@ const phrase = hpphrases[book][Math.floor(Math.random()*hpphrases[book].length)]
     </div>
   </div>
   <div class="p-3 text-center bshadow-md bg-white flex flex-col gap-2">
-    <img src="/navimg.png" alt="Navimg" class="border-4 border-yellow-500"/>
+    <img src={`${bestselledThisWeek}`} alt="" class="border-4 border-yellow-500"/>
     <p>Mas vendido en Argentina hoy</p>
   </div>
   <div class="p-3 shadow-md bg-white">
