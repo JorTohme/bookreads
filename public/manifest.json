@@ -1,0 +1,7 @@
+{
+  "name": "Bookreads, top selling Bookdeposity books",
+  "short_name": "Bookreads",
+  "description": "Bookreads is a web app that shows the top selling books on Bookdeposity and interesting data about them.",
+  "display": "standalone",
+  "start_url": "/src"
+}
