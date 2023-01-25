@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Generacion idiota",
+    "author": "Agustin Laje",
+    "price": "US$19.39",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+    "rating": 2.5
+  },
+  {
+    "title": "Short Stories in Spanish for Beginners",
+    "author": "Olly Richards",
+    "price": "US$10.58US$14.99",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Short Stories in Spanish for Intermediate Learners",
+    "author": "Olly Richards",
+    "price": "US$10.41US$14.99",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+    "rating": 4
+  },
+  {
+    "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+    "author": "Hirohiko Araki",
+    "price": "US$19.12",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+    "rating": 5
+  },
+  {
+    "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+    "author": "Mo Xiang Tong Xiu",
+    "price": "US$25.57",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
+    "author": "Hirohiko Araki",
+    "price": "US$20.20",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
+    "rating": 5
+  },
+  {
+    "title": "Elysian",
+    "author": "Sugary Pale",
+    "price": "US$18.05US$19.78",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+    "rating": 0
+  },
+  {
+    "title": "Twisted 2 - Twisted Games",
+    "author": "Ana Huang",
+    "price": "US$17.38US$18.74",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+    "rating": 4
+  },
+  {
+    "title": "EASIEST PIANO COURSE PART ONE",
+    "author": "Willis Music Company",
+    "price": "US$8.83",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8771/9780877180128.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Traguese Ese Sapo! Ed. Revisada",
+    "author": "Brian Tracy",
+    "price": "US$14.23",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4929/9788492921744.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Preparacion DELE",
+    "author": "Andrea Fabiana Hidalgo",
+    "price": "US$32.92",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490817216.jpg",
+    "rating": 0
+  },
+  {
+    "title": "Hábitos atómicos",
+    "author": "James Clear",
+    "price": "US$30.14",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4181/9788418118036.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Nosotros en la luna. Edición especial",
+    "author": "Alice Kellen",
+    "price": "US$45.46",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266860.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Birthday Girl",
+    "author": "Penelope Douglas",
+    "price": "US$19.54",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266709.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Reina de sombras",
+    "author": "MAAS, SARAH J.",
+    "price": "US$21.65",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9786/0731/9786073152464.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "LOS ANGELES DEL AMOR",
+    "author": "Virtue Doreen",
+    "price": "US$24.84US$34.13",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9782/8132/9782813217882.jpg",
+    "rating": 0
+  },
+  {
+    "title": "Cuando Las Mujeres Comen",
+    "author": "Noelia Janet Previtera",
+    "price": "US$15.41",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+    "rating": 0
+  },
+  {
+    "title": "POCO PIANO FOR YOUNG CHILDREN",
+    "author": "O SULLIVAN FARREL, MARGARET",
+    "price": "US$10.38",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/8343/9789834304829.jpg",
+    "rating": 3
+  }
+]
