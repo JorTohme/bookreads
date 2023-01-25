@@ -1812,18 +1812,18 @@
   ],
   "25-1-2023": [
     {
-      "title": "Generacion idiota",
-      "author": "Agustin Laje",
-      "price": "US$19.39",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
-      "rating": 2.5
-    },
-    {
       "title": "Short Stories in Spanish for Beginners",
       "author": "Olly Richards",
       "price": "US$10.58US$14.99",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
       "rating": 4
+    },
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$19.41",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
     },
     {
       "title": "Short Stories in Spanish for Intermediate Learners",
@@ -1833,11 +1833,11 @@
       "rating": 4
     },
     {
-      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
-      "author": "Hirohiko Araki",
-      "price": "US$19.12",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
-      "rating": 5
+      "title": "Birthday Girl",
+      "author": "Penelope Douglas",
+      "price": "US$37.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266709.jpg",
+      "rating": 4
     },
     {
       "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
@@ -1847,18 +1847,32 @@
       "rating": 4.5
     },
     {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "US$19.12",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Preparacion DELE",
+      "author": "Andrea Fabiana Hidalgo",
+      "price": "US$33.00",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490817216.jpg",
+      "rating": 0
+    },
+    {
       "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
       "author": "Hirohiko Araki",
-      "price": "US$20.20",
+      "price": "US$20.24",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
       "rating": 5
     },
     {
-      "title": "Elysian",
-      "author": "Sugary Pale",
-      "price": "US$18.05US$19.78",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
-      "rating": 0
+      "title": "Trilogía Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensión | El héroe de las Eras)",
+      "author": "Brandon Sanderson",
+      "price": "US$52.76US$59.82",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4131/9788413143187.jpg",
+      "rating": 4.5
     },
     {
       "title": "Twisted 2 - Twisted Games",
@@ -1875,53 +1889,53 @@
       "rating": 4
     },
     {
-      "title": "Traguese Ese Sapo! Ed. Revisada",
-      "author": "Brian Tracy",
-      "price": "US$14.23",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4929/9788492921744.jpg",
-      "rating": 4
-    },
-    {
-      "title": "Preparacion DELE",
-      "author": "Andrea Fabiana Hidalgo",
-      "price": "US$32.92",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490817216.jpg",
-      "rating": 0
+      "title": "Código limpio / Clean code",
+      "author": "Robert C. Martin",
+      "price": "US$76.02",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4415/9788441532106.jpg",
+      "rating": 4.5
     },
     {
       "title": "Hábitos atómicos",
       "author": "James Clear",
-      "price": "US$30.14",
+      "price": "US$29.51",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4181/9788418118036.jpg",
       "rating": 4.5
     },
     {
+      "title": "Amagi",
+      "author": "Sagar Prakash Khatnani",
+      "price": "US$33.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418015618.jpg",
+      "rating": 4
+    },
+    {
+      "title": "El Reino de Los Malditos. Vol. 3",
+      "author": "Kerri Maniscalco",
+      "price": "US$31.69",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4178/9788417854904.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.96",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
       "title": "Nosotros en la luna. Edición especial",
       "author": "Alice Kellen",
-      "price": "US$45.46",
+      "price": "US$45.54",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266860.jpg",
       "rating": 4
     },
     {
-      "title": "Birthday Girl",
-      "author": "Penelope Douglas",
-      "price": "US$19.54",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266709.jpg",
-      "rating": 4
-    },
-    {
-      "title": "Reina de sombras",
-      "author": "MAAS, SARAH J.",
-      "price": "US$21.65",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9786/0731/9786073152464.jpg",
+      "title": "Practice Makes Perfect: Complete Spanish Grammar, Premium Fourth Edition",
+      "author": "Gilda Nissenberg",
+      "price": "US$20.18",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/2604/9781260463156.jpg",
       "rating": 4.5
-    },
-    {
-      "title": "LOS ANGELES DEL AMOR",
-      "author": "Virtue Doreen",
-      "price": "US$24.84US$34.13",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9782/8132/9782813217882.jpg",
-      "rating": 0
     },
     {
       "title": "Cuando Las Mujeres Comen",
