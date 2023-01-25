@@ -46,9 +46,9 @@ Endpoints: **CONTINUA EN DESARROLLO**
 # To-do
 
 - [ ] Scrappear más datos de Bookdepository
-- [ ] Scrappear datos de Cúspide
+- [x] Scrappear datos de Cúspide
 - [ ] Añadir más endpoints a la API
-- [ ] Añadir responsive design a la página web
+- [x] Añadir responsive design a la página web
 - [ ] Añadir análisis de datos a la página web
 - [ ] Añadir sistema de reseñas a la página web
 - [ ] Añadir sistema de login a la página web
