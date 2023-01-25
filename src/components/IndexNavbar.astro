@@ -9,8 +9,8 @@ const book = keys[Math.floor(Math.random()*keys.length)]
 const phrase = hpphrases[book][Math.floor(Math.random()*hpphrases[book].length)]
 ---
 
-<nav class="min-h-screen w-3/12 py-5 flex flex-col gap-2 fontRoboto">
-  <div class="px-3 py-1 shadow-md bg-white">
+<nav class="min-h-screen lg:w-3/12 w-10/12 lg:py-5 flex flex-col gap-2 fontRoboto">
+  <div class="px-3 py-1 shadow-md text-center lg:text-left bg-white">
     <div class="text-xl font-bold my-2">Sagas más vendidas</div>
     <div class="flex flex-col gap-y-1.5">
       <div class="cursor-pointer">One piece</div>
@@ -22,9 +22,9 @@ const phrase = hpphrases[book][Math.floor(Math.random()*hpphrases[book].length)]
       <div class="cursor-pointer">Test</div>
     </div>
   </div>
-  <div class="p-3 text-center bshadow-md bg-white flex flex-col gap-2">
-    <a href={`${bestselledThisWeek.buyLink}`}>
-      <img src={`${bestselledThisWeek.img}`} alt={`${bestselledThisWeek.title}`} class="border-4 border-yellow-500"/>
+  <div class="p-3 text-center bshadow-md bg-white flex flex-col gap-2 justify-center items-center">
+    <a class="m-0 w-fit h-fit" href={`${bestselledThisWeek.buyLink}`} target="_blank">
+      <img src={`${bestselledThisWeek.img}`} alt={`${bestselledThisWeek.title}`} class="border-4 border-yellow-500 w-80"/>
     </a>
     <p>Mas vendido en Argentina hoy</p>
   </div>

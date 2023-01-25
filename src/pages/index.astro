@@ -26,11 +26,10 @@ const bestsellersChildren = await response.json()
 	<Header />
 
 	<div class="flex justify-center">
-		<div class="flex max-w-7xl w-3/4 gap-2">
-			
-			<IndexNavbar />
 
-			<main class="w-9/12 py-5 text-center flex flex-col gap-2">
+		<div class="max-w-7xl md:w-3/4 w-5/6 flex lg:flex-row-reverse place-items-center lg:place-items-start flex-col gap-2">
+
+			<main class="lg:w-9/12 w-full py-5 text-center flex flex-col gap-2">
 				<div class="py-14 shadow-md bg-white">
 					<h1 class="text-3xl font-extrabold md:text-5xl">Bienvenido a <span class="text-gradient">Bookreads</span></h1>
 					<p class="text-xl">
@@ -41,35 +40,32 @@ const bestsellersChildren = await response.json()
 				<div class="px-2 py-1 h-fit shadow-md bg-white text-left ">
 					<p class="text-xl font-semibold">Bestsellers</p>
 					<div class="scrollx py-2 overflow-x-scroll">
-
 						<Books data={bestsellers} />
-
 					</div>
 				</div>
 
 				<div class="px-2 py-1 h-fit shadow-md bg-white text-left ">
 					<p class="text-xl font-semibold">Bestsellers en español</p>
 					<div class="scrollx py-2 overflow-x-scroll">
-						
 						<Books data={bestsellersSpanish} />
-
 					</div>
 				</div>
 
 				<div class="px-2 py-1 h-fit shadow-md bg-white text-left ">
 					<p class="text-xl font-semibold">Bestsellers para niños</p>
 					<div class="scrollx py-2 overflow-x-scroll">
-						
 						<Books data={bestsellersChildren} />
-
 					</div>
 				</div>	
-
 			</main>
+
+			<IndexNavbar />
+
 		</div>
 	</div>
 	
 	<Footer />
+	
 </Layout>
 
 <style>

@@ -5,19 +5,19 @@ const totalBooks = await totalBooksRes.json()
 
 <header>
   <div class="fontRoboto h-10 p-1 bg-purple-900 flex justify-center items-center">
-    <div class="w-3/4 max-w-7xl flex justify-between">
+    <div class="lg:w-3/4 lg:max-w-7xl flex justify-between">
       <div class="flex gap-5">
         <a href="/"><img src="/blanco.svg" alt="Ir al inicio" class="w-6"/></a>
         <a href="https://www.bookdepository.com/es/" target="_blank" class="text-gray-200 hover:text-white"><p>Ir a Bookdepository</p></a>
         <a href="https://www.cuspide.com/" target="_blank" class="text-gray-200 hover:text-white"><p>Ir a Cúspide (ARG)</p></a>
       </div>
-      <p class="text-white">Libros: {totalBooks['totalBooks']}</p>
+      <p class="text-white hidden sm:block">Libros: {totalBooks['totalBooks']}</p>
     </div>
   </div>
-  <div  class="p-2 h-24 bg-purple-700 bg-opacity-70 flex justify-center">
-    <div class="w-3/4 max-w-7xl flex gap-24 items-center">
-      <a href="/"><img src="/logo.svg" alt="Bookreads" class="logo"/></a>
-      <div class="h-10 w-3/4 flex gap-2">
+  <div  class="p-2 lg:h-24 h-fit bg-purple-700 bg-opacity-70 flex place-items-center justify-center">
+    <div class="lg:w-3/4 max-w-7xl lg:flex lg:gap-24 items-center">
+      <a href="/" class="flex justify-center"><img src="/logo.svg" alt="Bookreads" class="logo"/></a>
+      <div class="h-10 lg:w-3/4 flex gap-2 my-5 lg:my-0">
         <input class="w-full px-2 rounded-md" type="text" placeholder="PROXIMAMENTE PROXIMAMENTE PROXIMAMENTE PROXIMAMENTE PROXIMAMENTE PROXIMAMENTE"/>
         <button class="w-40 px-2 py-1 bg-purple-900 text-white hover:bg-purple-800 rounded-md">
           Buscar
