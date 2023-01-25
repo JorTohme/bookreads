@@ -26,7 +26,11 @@ const resCuspide = await fetch('https://www.cuspide.com/')
 const htmlCuspide = await resCuspide.text()
 const $cuspide = cheerio.load(htmlCuspide)
 
-const bestselledThisWeek = $cuspide('img#ctl00_ContentPlaceHolder1_top100_rptMasVendidos_ctl00_img_tapa').attr('data-original')
+const bestselledThisWeek = {
+  img: $cuspide('img#ctl00_ContentPlaceHolder1_top100_rptMasVendidos_ctl00_img_tapa').attr('data-original'),
+  title: $cuspide('img#ctl00_ContentPlaceHolder1_top100_rptMasVendidos_ctl00_img_tapa').attr('title'),
+  buyLink: 'https://www.cuspide.com/' + $cuspide('a#ctl00_ContentPlaceHolder1_top100_rptMasVendidos_ctl00_a_tapa_libro').attr('href')
+}
 
 // Creating the scrapping files
 const filePathBestsellers = path.join(process.cwd(), `./db/books/bestsellers/${day}-${month}-${year}.json`)
