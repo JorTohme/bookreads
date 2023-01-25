@@ -23,7 +23,9 @@ const phrase = hpphrases[book][Math.floor(Math.random()*hpphrases[book].length)]
     </div>
   </div>
   <div class="p-3 text-center bshadow-md bg-white flex flex-col gap-2">
-    <img src={`${bestselledThisWeek}`} alt="" class="border-4 border-yellow-500"/>
+    <a href={`${bestselledThisWeek.buyLink}`}>
+      <img src={`${bestselledThisWeek.img}`} alt={`${bestselledThisWeek.title}`} class="border-4 border-yellow-500"/>
+    </a>
     <p>Mas vendido en Argentina hoy</p>
   </div>
   <div class="p-3 shadow-md bg-white">
