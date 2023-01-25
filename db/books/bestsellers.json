@@ -1,4 +1,891 @@
 {
+  "12-1-2023": [
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "ARS$4.823,17",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Spare",
+      "author": "Prince Harry The Duke of Sussex",
+      "price": "ARS$7.763,37",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 3
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "ARS$3.115,21",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "ARS$3.114,23",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "ARS$3.150,68",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "ARS$3.522,53",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "ARS$5.400,57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "ARS$2.863,30",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "ARS$3.460,58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Moonology (TM) Diary 2023",
+      "author": "Yasmin Boland",
+      "price": "ARS$3.642,51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7881/9781788176583.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "ARS$5.373,95",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "ARS$4.233,27",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "ARS$3.750,41",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "ARS$5.001,22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583011.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "ARS$4.123,56",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "price": "ARS$3.958,55",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Cain's Jawbone",
+      "author": "Ernest Powys Mathers",
+      "price": "ARS$3.771,48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8001/9781800180796.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "price": "ARS$4.561,84",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2415/9780241539590.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "ARS$3.058,64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "ARS$3.286,33",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    }
+  ],
+  "13-1-2023": [
+    {
+      "title": "Spare",
+      "author": "PRINCE HARRY The duke of sussex",
+      "price": "US$41.59",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$18.92US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.06US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.15US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$8.97US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.16US$12.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.55US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.27US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.52US$15.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "A Little Life",
+      "author": "Hanya Yanagihara",
+      "price": "US$15.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4472/9781447294832.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.35US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$22.95",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.75US$13.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "price": "US$13.28US$14.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.39US$18.21",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "price": "US$18.27US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2415/9780241539590.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.30US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$17.86US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583011.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.28US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "US$13.28US$13.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "price": "US$9.67US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5713/9780571368709.jpg",
+      "rating": 4
+    }
+  ],
+  "14-1-2023": [
+    {
+      "title": "Spare",
+      "author": "PRINCE HARRY The duke of sussex",
+      "price": "US$31.13US$34.01",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$18.92US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.06US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.15US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$8.97US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.16US$12.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.55US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.27US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.52US$15.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "A Little Life",
+      "author": "Hanya Yanagihara",
+      "price": "US$15.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4472/9781447294832.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.35US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$20.81",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.75US$13.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "price": "US$13.28US$14.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.39US$18.21",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "price": "US$18.27US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2415/9780241539590.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.30US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$17.86US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583011.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.28US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "US$13.11US$13.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "price": "US$9.67US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5713/9780571368709.jpg",
+      "rating": 4
+    }
+  ],
+  "15-1-2023": [
+    {
+      "title": "Spare",
+      "author": "PRINCE HARRY The duke of sussex",
+      "price": "US$31.13US$34.01",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$18.92US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.06US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.15US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$8.97US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.16US$12.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.55US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.27US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.52US$15.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "A Little Life",
+      "author": "Hanya Yanagihara",
+      "price": "US$15.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4472/9781447294832.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.35US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$22.44",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.75US$13.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "price": "US$13.28US$14.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.39US$18.21",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "price": "US$18.27US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2415/9780241539590.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.30US$20.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$17.86US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583011.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.28US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "US$13.11US$13.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "price": "US$9.67US$10.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5713/9780571368709.jpg",
+      "rating": 4
+    }
+  ],
+  "16-1-2023": [
+    {
+      "title": "Spare",
+      "author": "PRINCE HARRY The duke of sussex",
+      "price": "US$31.35US$34.24",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$19.05US$20.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.13US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.22US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.04US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.24US$12.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.62US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.57US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.62US$15.88",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "A Little Life",
+      "author": "Hanya Yanagihara",
+      "price": "US$16.81",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4472/9781447294832.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.46US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$22.59",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.83US$13.44",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "price": "US$13.37US$14.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.49US$18.33",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "price": "US$18.39US$20.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2415/9780241539590.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.43US$20.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$17.98US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583011.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.35US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "US$13.20US$13.44",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Small Things Like These",
+      "author": "Claire Keegan",
+      "price": "US$9.74US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5713/9780571368709.jpg",
+      "rating": 4
+    }
+  ],
+  "17-1-2023": [
+    {
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": "US$31.34US$34.24",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$19.05US$20.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.13US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.22US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.24US$12.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.57US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "US$21.33US$24.46",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.04US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$24.79",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.46US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.62US$15.88",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.62US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.83US$13.44",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.49US$18.33",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "US$20.08",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.41US$20.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$17.98US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583011.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.35US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "price": "US$18.39US$20.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2415/9780241539590.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "US$10.54US$12.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "price": "US$13.37US$14.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+      "rating": 4
+    }
+  ],
   "18-1-2023": [
     {
       "title": "Spare",
@@ -148,151 +1035,1038 @@
       "rating": 4
     }
   ],
-  "24-1-2023": [
+  "19-1-2023": [
     {
       "title": "Spare",
       "author": "Prince Harry the Duke of Sussex",
-      "price": "ARS$7.333,39",
+      "price": "US$29.77US$34.58",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
       "rating": 4
     },
     {
       "title": "Atomic Habits",
       "author": "James Clear",
-      "price": "ARS$4.997,89",
+      "price": "US$19.24",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
-      "rating": 4.5
-    },
-    {
-      "title": "The Creative Act",
-      "author": "Rick Rubin",
-      "price": "ARS$7.621,49",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
       "rating": 4.5
     },
     {
       "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
       "author": "Colleen Hoover",
-      "price": "ARS$3.228,06",
+      "price": "US$10.23US$11.10",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
-      "rating": 4.5
-    },
-    {
-      "title": "Before the Coffee Gets Cold",
-      "author": "Toshikazu Kawaguchi",
-      "price": "ARS$3.220,35",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
-      "rating": 3.5
-    },
-    {
-      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
-      "author": "Rou Bao Bu Chi Rou",
-      "price": "ARS$6.027,18",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
-      "rating": 4.5
-    },
-    {
-      "title": "Verity",
-      "author": "Colleen Hoover",
-      "price": "ARS$2.967,02",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
       "rating": 4.5
     },
     {
       "title": "Seven Husbands of Evelyn Hugo",
       "author": "Taylor Jenkins Reid",
-      "price": "ARS$3.264,81",
+      "price": "US$10.32US$11.10",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.35US$12.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.57US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "US$21.54US$24.70",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.12US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$25.07",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.62US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.78US$16.04",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.72US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.95US$13.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.64US$18.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "US$20.28",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.63US$20.98",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.16US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583011.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.45US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Manifest",
+      "author": "Roxie Nafousi",
+      "price": "US$18.58US$20.98",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2415/9780241539590.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "US$10.64US$12.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "price": "US$13.51US$14.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+      "rating": 4
+    }
+  ],
+  "20-1-2023": [
+    {
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": "US$29.78US$34.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$19.24US$22.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$12.04",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "price": "US$31.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.35US$12.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "US$22.61",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.32US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "US$21.54US$24.70",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.12US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
       "rating": 4.5
     },
     {
       "title": "Food for Life",
       "author": "Tim Spector",
-      "price": "ARS$8.069,78",
+      "price": "US$39.99",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7873/9781787330498.jpg",
       "rating": 4
     },
     {
-      "title": "Hell Bent",
-      "author": "Leigh Bardugo",
-      "price": "ARS$6.191,60",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
-      "rating": 4.5
-    },
-    {
       "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
       "author": "Mo Xiang Tong Xiu",
-      "price": "ARS$5.352,69",
+      "price": "US$18.57US$19.99",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
       "rating": 5
     },
     {
       "title": "The Psychology of Money",
       "author": "Morgan Housel",
-      "price": "ARS$4.272,93",
+      "price": "US$16.62US$18.99",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
       "rating": 4.5
     },
     {
       "title": "Things We Never Got Over",
       "author": "Lucy Score",
-      "price": "ARS$3.585,93",
+      "price": "US$10.72US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.78US$16.04",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.63US$20.98",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.64US$18.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "US$10.64US$12.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.95US$13.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.45US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "US$13.33US$13.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    }
+  ],
+  "21-1-2023": [
+    {
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": "US$29.78US$34.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$19.24US$22.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.23US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "price": "US$31.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.35US$12.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "US$20.28",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.32US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "US$21.54US$24.70",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.12US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Food for Life",
+      "author": "Tim Spector",
+      "price": "US$39.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7873/9781787330498.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.57US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$30.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.62US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.72US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.78US$16.04",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.63US$20.98",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.64US$18.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "US$10.64US$12.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.95US$13.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.45US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "US$13.33US$13.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    }
+  ],
+  "22-1-2023": [
+    {
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": "US$29.78US$34.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$19.24US$22.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "price": "US$31.56",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
+      "rating": 5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.23US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.35US$12.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "US$20.28",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.12US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.32US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Food for Life",
+      "author": "Tim Spector",
+      "price": "US$39.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7873/9781787330498.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "US$21.54US$24.70",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.57US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.62US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.72US$11.10",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
       "rating": 4.5
     },
     {
       "title": "The Boy, The Mole, The Fox and The Horse",
       "author": "Charlie Mackesy",
-      "price": "ARS$5.568,61",
+      "price": "US$20.63US$20.98",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
       "rating": 4.5
     },
     {
       "title": "The Body Keeps the Score",
       "author": "Bessel van der Kolk",
-      "price": "ARS$4.386,61",
+      "price": "US$15.78US$16.04",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
       "rating": 4.5
     },
     {
       "title": "Glucose Revolution",
       "author": "Jessie Inchauspe",
-      "price": "ARS$4.311,04",
+      "price": "US$15.64US$18.51",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
       "rating": 4.5
     },
     {
       "title": "The Midnight Library",
       "author": "Matt Haig",
-      "price": "ARS$3.090,68",
+      "price": "US$10.45US$11.10",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
       "rating": 4
     },
     {
       "title": "Cain's Jawbone",
       "author": "Ernest Powys Mathers",
-      "price": "ARS$3.278,93",
+      "price": "US$14.03",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8001/9781800180796.jpg",
       "rating": 4
     },
     {
       "title": "Twisted Love",
       "author": "Ana Huang",
-      "price": "ARS$3.388,68",
+      "price": "US$10.64US$12.34",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
       "rating": 4
     },
     {
       "title": "Everything I Know About Love",
       "author": "Dolly Alderton",
-      "price": "ARS$3.665,89",
+      "price": "US$12.96US$13.57",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2419/9780241982105.jpg",
       "rating": 4
     },
     {
       "title": "The Daily Stoic",
       "author": "Ryan Holiday",
-      "price": "ARS$3.650,13",
+      "price": "US$11.95US$13.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    }
+  ],
+  "23-1-2023": [
+    {
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": "US$29.88US$34.71",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$21.22US$22.30",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "price": "US$26.58US$30.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
+      "rating": 5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.27US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.39US$12.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "US$20.36",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.16US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.36US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Food for Life",
+      "author": "Tim Spector",
+      "price": "US$39.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7873/9781787330498.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "US$21.62US$24.79",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.64US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.68US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.76US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.71US$21.06",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.84US$16.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.70US$18.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.49US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Cain's Jawbone",
+      "author": "Ernest Powys Mathers",
+      "price": "US$14.09",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8001/9781800180796.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "US$10.69US$12.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Everything I Know About Love",
+      "author": "Dolly Alderton",
+      "price": "US$13.01US$13.62",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2419/9780241982105.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.99US$13.62",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    }
+  ],
+  "24-1-2023": [
+    {
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": "26,99 €PVPR:35,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "18,35 €PVPR:22,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "9,75 €PVPR:10,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "price": "26,98 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "11,35 €PVPR:13,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "15,75 €PVPR:20,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "9,77 €PVPR:11,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "22,99 €PVPR:25,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "8,96 €PVPR:11,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Food for Life",
+      "author": "Tim Spector",
+      "price": "29,78 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7873/9781787330498.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "15,99 €PVPR:20,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "20,54 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "15,70 €PVPR:19,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "9,41 €PVPR:11,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "14,19 €PVPR:16,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "17,58 €PVPR:21,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "16,49 €PVPR:21,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "9,99 €PVPR:13,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "10,94 €PVPR:14,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "9,80 €PVPR:11,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "price": "12,28 €PVPR:14,50 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+      "rating": 4
+    }
+  ],
+  "25-1-2023": [
+    {
+      "title": "Spare",
+      "author": "Prince Harry the Duke of Sussex",
+      "price": "US$29.89US$34.71",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8575/9780857504791.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": "US$20.49US$22.30",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Creative Act",
+      "author": "Rick Rubin",
+      "price": "US$31.68",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+      "author": "Colleen Hoover",
+      "price": "US$10.27US$11.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "price": "US$11.39US$12.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "author": "Rou Bao Bu Chi Rou",
+      "price": "US$20.36",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638589334.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "price": "US$9.16US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4087/9781408726600.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": "US$10.36US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Food for Life",
+      "author": "Tim Spector",
+      "price": "US$39.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7873/9781787330498.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Hell Bent",
+      "author": "Leigh Bardugo",
+      "price": "US$21.62US$24.79",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4732/9781473228016.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 4",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$18.64US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638583523.jpg",
+      "rating": 5
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": "US$16.68US$18.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8571/9780857197689.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Things We Never Got Over",
+      "author": "Lucy Score",
+      "price": "US$10.76US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": "US$20.71US$21.06",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "price": "US$15.84US$16.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Glucose Revolution",
+      "author": "Jessie Inchauspe",
+      "price": "US$15.70US$18.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780725239.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": "US$10.02US$11.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7868/9781786892737.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Cain's Jawbone",
+      "author": "Ernest Powys Mathers",
+      "price": "US$14.09",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8001/9781800180796.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "price": "US$10.69US$12.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Everything I Know About Love",
+      "author": "Dolly Alderton",
+      "price": "US$13.01US$13.62",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2419/9780241982105.jpg",
+      "rating": 4
+    },
+    {
+      "title": "The Daily Stoic",
+      "author": "Ryan Holiday",
+      "price": "US$11.99US$13.62",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7812/9781781257654.jpg",
       "rating": 4.5
     }

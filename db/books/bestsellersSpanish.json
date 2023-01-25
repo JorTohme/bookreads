@@ -1,4 +1,693 @@
 {
+  "12-1-2023": [
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "ARS$7.610,97",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "ARS$3.104,57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "ARS$4.287,43",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Fortaleza. Agenda Paulo Coelho 2023",
+      "author": "Paulo Coelho",
+      "price": "ARS$5.725,08",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408256854.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "ARS$9.379,04",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "CALENDARIO 2023. MIRIAM BONASTRE",
+      "author": "Miriam Bonastre Tur",
+      "price": "ARS$4.787,71ARS$5.358,61",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467957266.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Este dolor no es mío : identifica y resuelve los traumas familiares heredados",
+      "author": "Mark Wolynn",
+      "price": "ARS$5.135,07",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484456810.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "(pack) Bad Ash (trilogia)",
+      "author": "Alina Not",
+      "price": "ARS$6.136,04",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408268543.jpg",
+      "rating": 0
+    },
+    {
+      "title": "HABITOS ATOMICOS",
+      "author": "CLEAR, JAMES",
+      "price": "ARS$4.810,66",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9786/0774/9786077476719.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "1000 RECORD COVERS / PD.",
+      "author": "Ochs, Michael",
+      "price": "ARS$7.388,44",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9783/8365/9783836550581.jpg",
+      "rating": 4
+    },
+    {
+      "title": "No me puedes lastimar",
+      "author": "David Goggins",
+      "price": "ARS$6.446,84",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5445/9781544529127.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "ARS$2.975,66",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "La oruga muy hambrienta",
+      "author": "Eric Carle",
+      "price": "ARS$3.108,28",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3992/9780399239601.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Seis de Cuervos",
+      "author": "Leigh Bardugo",
+      "price": "ARS$7.966,87",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4183/9788418359675.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Las montañas de la locura",
+      "author": "Gou Tanabe",
+      "price": "ARS$8.374,62",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4134/9788413416847.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Trilogía Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensión | El héroe de las Eras)",
+      "author": "Brandon Sanderson",
+      "price": "ARS$10.351,24ARS$10.709,42",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4131/9788413143187.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "ARS$4.282,18",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "ARS$4.387,94",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El Reino Del Puente",
+      "author": "Danielle L. Jensen",
+      "price": "ARS$4.387,94",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267027.jpg",
+      "rating": 4
+    }
+  ],
+  "13-1-2023": [
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.37US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "En la sombra",
+      "author": "Principe Harry",
+      "price": "US$35.94",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4010/9788401029813.jpg",
+      "rating": 3
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$30.94",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.16US$18.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$13.52",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$17.82US$19.60",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$10.20US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "No me puedes lastimar",
+      "author": "David Goggins",
+      "price": "US$27.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5445/9781544529127.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$24.82",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.13US$18.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$42.19",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El método Grönholm",
+      "author": "Jordi Galcerán",
+      "price": "US$34.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4165/9788416503186.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Camino Portugues Maps",
+      "author": "John Brierley",
+      "price": "US$21.44",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/9122/9781912216147.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$15.51US$15.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 3
+    },
+    {
+      "title": "Spanish-English Bilingual Visual Dictionary with Free Audio App",
+      "author": "DK",
+      "price": "US$13.75",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2412/9780241292433.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "CHAINSAW MAN 12",
+      "author": "Tatsuki Fujimoto",
+      "price": "US$14.66",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467959741.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Campos de fresas",
+      "author": "Jordi Sierra I Fabra",
+      "price": "US$18.82US$30.30",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4675/9788467593945.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "Eximidos",
+      "author": "Mar Petryk",
+      "price": "US$34.08",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266990.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Entrevista Con Un Illuminati",
+      "author": "Lorean Russell",
+      "price": "US$20.15",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3707/9798370757501.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Neurociencia del Cuerpo",
+      "author": "Nazareth Castellanos",
+      "price": "US$27.95",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4998/9788499889931.jpg",
+      "rating": 5
+    }
+  ],
+  "14-1-2023": [
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.37US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "En la sombra",
+      "author": "Principe Harry",
+      "price": "US$35.94",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4010/9788401029813.jpg",
+      "rating": 3
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$15.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$10.20US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$30.94",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
+      "title": "No me puedes lastimar",
+      "author": "David Goggins",
+      "price": "US$27.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5445/9781544529127.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$22.94",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 3
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.13US$18.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$24.82",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$17.82US$19.60",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Camino Portugues Maps",
+      "author": "John Brierley",
+      "price": "US$12.54US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/9122/9781912216147.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$53.05",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El método Grönholm",
+      "author": "Jordi Galcerán",
+      "price": "US$34.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4165/9788416503186.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.16US$18.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 0
+    },
+    {
+      "title": "CHAINSAW MAN 12",
+      "author": "Tatsuki Fujimoto",
+      "price": "US$14.66",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467959741.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.23",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Campos de fresas",
+      "author": "Jordi Sierra I Fabra",
+      "price": "US$18.82US$30.30",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4675/9788467593945.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "Mis ganas ganan. Nadie nos ha prometido un mañana, vive el presente.",
+      "author": "Elena Huelva",
+      "price": "US$26.12US$26.23",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4185/9788418594649.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Eximidos",
+      "author": "Mar Petryk",
+      "price": "US$34.08",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266990.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Cómo ser un estoico",
+      "author": "Massimo Pigliucci",
+      "price": "US$14.98US$15.65",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408242604.jpg",
+      "rating": 4
+    }
+  ],
+  "15-1-2023": [
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.37US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "En la sombra",
+      "author": "Principe Harry",
+      "price": "US$34.56US$35.20",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4010/9788401029813.jpg",
+      "rating": 3
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$15.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$10.20US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.01",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
+      "title": "No me puedes lastimar",
+      "author": "David Goggins",
+      "price": "US$27.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5445/9781544529127.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$22.90",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 3
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.13US$18.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$24.87",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$17.82US$19.60",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Camino Portugues Maps",
+      "author": "John Brierley",
+      "price": "US$12.54US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/9122/9781912216147.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$52.81",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El método Grönholm",
+      "author": "Jordi Galcerán",
+      "price": "US$34.53",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4165/9788416503186.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.16US$18.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 0
+    },
+    {
+      "title": "CHAINSAW MAN 12",
+      "author": "Tatsuki Fujimoto",
+      "price": "US$14.69",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467959741.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.44",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Campos de fresas",
+      "author": "Jordi Sierra I Fabra",
+      "price": "US$18.87US$30.30",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4675/9788467593945.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "Mis ganas ganan. Nadie nos ha prometido un mañana, vive el presente.",
+      "author": "Elena Huelva",
+      "price": "US$26.18US$26.23",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4185/9788418594649.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Eximidos",
+      "author": "Mar Petryk",
+      "price": "US$34.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266990.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Cómo ser un estoico",
+      "author": "Massimo Pigliucci",
+      "price": "US$15.02US$15.65",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408242604.jpg",
+      "rating": 4
+    }
+  ],
+  "16-1-2023": [
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.44US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$10.27US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.15",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$14.72US$15.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$15.20",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.24US$18.64",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.28US$18.69",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 0
+    },
+    {
+      "title": "No me puedes lastimar",
+      "author": "David Goggins",
+      "price": "US$27.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5445/9781544529127.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$53.42",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$25.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$17.94US$19.73",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El método Grönholm",
+      "author": "Jordi Galcerán",
+      "price": "US$34.71",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4165/9788416503186.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Camino Portugues Maps",
+      "author": "John Brierley",
+      "price": "US$12.62US$19.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/9122/9781912216147.jpg",
+      "rating": 0
+    },
+    {
+      "title": "POCO PIANO FOR YOUNG CHILDREN",
+      "author": "O SULLIVAN FARREL, MARGARET",
+      "price": "US$10.24",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/8343/9789834304829.jpg",
+      "rating": 3
+    },
+    {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Campos de fresas",
+      "author": "Jordi Sierra I Fabra",
+      "price": "US$18.94US$30.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4675/9788467593945.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "Eximidos",
+      "author": "Mar Petryk",
+      "price": "US$34.30",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266990.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Cómo ser un estoico",
+      "author": "Massimo Pigliucci",
+      "price": "US$15.08US$15.76",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408242604.jpg",
+      "rating": 4
+    }
+  ],
   "17-1-2023": [
     {
       "title": "En la sombra",
@@ -283,125 +972,970 @@
       "rating": 4.5
     }
   ],
-  "24-1-2023": [
+  "19-1-2023": [
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.54US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
     {
       "title": "Generacion idiota",
       "author": "Agustin Laje",
-      "price": "ARS$5.026,22",
+      "price": "US$14.77US$15.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$53.62",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$12.17US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$25.62",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$15.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.29US$18.63",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.52",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "US$13.90US$18.81",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.25US$18.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "No me puedes lastimar",
+      "author": "David Goggins",
+      "price": "US$27.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5445/9781544529127.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "La oruga muy hambrienta",
+      "author": "Eric Carle",
+      "price": "US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3992/9780399239601.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Este dolor no es mío : identifica y resuelve los traumas familiares heredados",
+      "author": "Mark Wolynn",
+      "price": "US$22.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484456810.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "La dieta de la longevidad: Comer bien para vivir sano hasta los 110 anos / The Longevity Diet",
+      "author": "Valter Longo",
+      "price": "US$18.26",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4663/9788466344401.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$17.95US$19.67",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "price": "US$18.77",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4990/9788499089508.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "POCO PIANO FOR YOUNG CHILDREN",
+      "author": "O SULLIVAN FARREL, MARGARET",
+      "price": "US$10.34",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/8343/9789834304829.jpg",
+      "rating": 3
+    },
+    {
+      "title": "El Principito/ The Little Prince",
+      "author": "Antoine De Saint-Exupery",
+      "price": "US$8.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/5004/9789500426404.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Nuevo Espanol en Marcha Basico : Student Book + CD",
+      "author": "Pilar Díaz Ballesteros",
+      "price": "US$56.90",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4977/9788497785297.jpg",
+      "rating": 1.5
+    }
+  ],
+  "20-1-2023": [
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$14.77US$15.99",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
       "rating": 2.5
     },
     {
       "title": "Short Stories in Spanish for Beginners",
       "author": "Olly Richards",
-      "price": "ARS$3.217,03",
+      "price": "US$10.54US$14.99",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
       "rating": 4
     },
     {
-      "title": "Short Stories in Spanish for Intermediate Learners",
-      "author": "Olly Richards",
-      "price": "ARS$3.083,45",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.29US$18.63",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
       "rating": 4
     },
     {
       "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
       "author": "Hirohiko Araki",
-      "price": "ARS$4.996,75",
+      "price": "US$13.90US$18.81",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
       "rating": 5
     },
     {
-      "title": "Twisted 2 - Twisted Games",
-      "author": "Ana Huang",
-      "price": "ARS$4.421,91",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$12.17US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
       "rating": 4
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.25US$18.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$15.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
     },
     {
       "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
       "author": "Mo Xiang Tong Xiu",
-      "price": "ARS$6.050,94",
+      "price": "US$25.41",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
       "rating": 4.5
     },
     {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$53.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Trilogía Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensión | El héroe de las Eras)",
+      "author": "Brandon Sanderson",
+      "price": "US$52.39US$59.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4131/9788413143187.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.18",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    },
+    {
+      "title": "EASIEST PIANO COURSE PART ONE",
+      "author": "Willis Music Company",
+      "price": "US$8.82",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8771/9780877180128.jpg",
+      "rating": 4
+    },
+    {
+      "title": "La oruga muy hambrienta",
+      "author": "Eric Carle",
+      "price": "US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3992/9780399239601.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "El Principito/ The Little Prince",
+      "author": "Antoine De Saint-Exupery",
+      "price": "US$8.51",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/5004/9789500426404.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "price": "US$18.59",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4990/9788499089508.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Este dolor no es mío : identifica y resuelve los traumas familiares heredados",
+      "author": "Mark Wolynn",
+      "price": "US$19.89US$21.84",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484456810.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "La dieta de la longevidad: Comer bien para vivir sano hasta los 110 anos / The Longevity Diet",
+      "author": "Valter Longo",
+      "price": "US$18.09",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4663/9788466344401.jpg",
+      "rating": 4
+    },
+    {
       "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
       "author": "Hirohiko Araki",
-      "price": "ARS$4.890,41",
+      "price": "US$20.11",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
       "rating": 5
     },
     {
       "title": "Elysian",
       "author": "Sugary Pale",
-      "price": "ARS$4.524,90",
+      "price": "US$17.95US$19.67",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
       "rating": 0
+    }
+  ],
+  "21-1-2023": [
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$14.77US$15.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
+    },
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.54US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.29US$18.63",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 4
+    },
+    {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "US$13.90US$18.81",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$12.17US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.25US$18.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$15.35",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$25.02",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$53.45",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Trilogía Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensión | El héroe de las Eras)",
+      "author": "Brandon Sanderson",
+      "price": "US$52.39US$59.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4131/9788413143187.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.20",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
     },
     {
       "title": "EASIEST PIANO COURSE PART ONE",
       "author": "Willis Music Company",
-      "price": "ARS$2.389,06",
+      "price": "US$8.80",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8771/9780877180128.jpg",
       "rating": 4
     },
     {
+      "title": "La oruga muy hambrienta",
+      "author": "Eric Carle",
+      "price": "US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3992/9780399239601.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "El Principito/ The Little Prince",
+      "author": "Antoine De Saint-Exupery",
+      "price": "US$8.49",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/5004/9789500426404.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "price": "US$18.59",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4990/9788499089508.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Este dolor no es mío : identifica y resuelve los traumas familiares heredados",
+      "author": "Mark Wolynn",
+      "price": "US$19.89US$21.84",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484456810.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "La dieta de la longevidad: Comer bien para vivir sano hasta los 110 anos / The Longevity Diet",
+      "author": "Valter Longo",
+      "price": "US$18.11",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4663/9788466344401.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
+      "author": "Hirohiko Araki",
+      "price": "US$20.11",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$17.95US$19.67",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    }
+  ],
+  "22-1-2023": [
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$19.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
+    },
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.54US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.29US$18.63",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 4
+    },
+    {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "US$13.90US$18.81",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$10.37US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Este dolor no es mío : identifica y resuelve los traumas familiares heredados",
+      "author": "Mark Wolynn",
+      "price": "US$19.89US$21.84",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484456810.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$25.06",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.39",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$53.52",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.25US$18.58",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "El Libro Negro de la Persuasion",
+      "author": "Alejandro Llantada",
+      "price": "US$12.06",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4961/9781496188809.jpg",
+      "rating": 4
+    },
+    {
+      "title": "La oruga muy hambrienta",
+      "author": "Eric Carle",
+      "price": "US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3992/9780399239601.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "price": "US$18.61",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4990/9788499089508.jpg",
+      "rating": 4.5
+    },
+    {
       "title": "Cien Años De Soledad",
       "author": "Gabriel Garcia Marquez",
-      "price": "ARS$4.384,47",
+      "price": "US$17.61",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4975/9788497592208.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
+      "author": "Hirohiko Araki",
+      "price": "US$20.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$35.43",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4182/9788418224461.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Trilogía Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensión | El héroe de las Eras)",
+      "author": "Brandon Sanderson",
+      "price": "US$52.47US$59.48",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4131/9788413143187.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "La heredera del mayorazgo Sáenz",
+      "author": "L.F Méndez",
+      "price": "US$18.31",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4111/9788411144780.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$17.95US$19.67",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.22",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    }
+  ],
+  "23-1-2023": [
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$19.41",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
+    },
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.58US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.38US$18.74",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 4
+    },
+    {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "US$13.95US$18.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$10.41US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Este dolor no es mío : identifica y resuelve los traumas familiares heredados",
+      "author": "Mark Wolynn",
+      "price": "US$19.89US$21.96",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484456810.jpg",
+      "rating": 3.5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$25.52",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Chainsaw Man 4",
+      "author": "Tatsuki Fujmoto",
+      "price": "US$15.45",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$53.73",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
+      "rating": 0
+    },
+    {
+      "title": "El Arte De Ser Nosotros",
+      "author": "Inma Rubiales",
+      "price": "US$17.34US$18.68",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "El Libro Negro de la Persuasion",
+      "author": "Alejandro Llantada",
+      "price": "US$12.10",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4961/9781496188809.jpg",
+      "rating": 4
+    },
+    {
+      "title": "La oruga muy hambrienta",
+      "author": "Eric Carle",
+      "price": "US$10.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3992/9780399239601.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "price": "US$18.68",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4990/9788499089508.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Cien Años De Soledad",
+      "author": "Gabriel Garcia Marquez",
+      "price": "US$17.68",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4975/9788497592208.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
+      "author": "Hirohiko Araki",
+      "price": "US$20.20",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Aula Internacional Plus",
+      "author": "Jaime Corpas",
+      "price": "US$35.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4182/9788418224461.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Trilogía Nacidos de la Bruma [Mistborn] (pack con: El imperio final | El pozo de la Ascensión | El héroe de las Eras)",
+      "author": "Brandon Sanderson",
+      "price": "US$52.67US$59.82",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4131/9788413143187.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "La heredera del mayorazgo Sáenz",
+      "author": "L.F Méndez",
+      "price": "US$18.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4111/9788411144780.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$18.05US$19.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Volver a empezar (It Starts with Us)",
+      "author": "Colleen Hoover",
+      "price": "US$31.89",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267195.jpg",
+      "rating": 4
+    }
+  ],
+  "24-1-2023": [
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "17,43 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
+    },
+    {
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "10,24 €PVPR:14,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "12,99 €PVPR:14,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "18,19 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "22,46 €PVPR:22,98 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
+      "author": "Hirohiko Araki",
+      "price": "17,89 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "18,22 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "17,26 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 4
+    },
+    {
+      "title": "EASIEST PIANO COURSE PART ONE",
+      "author": "Willis Music Company",
+      "price": "8,92 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8771/9780877180128.jpg",
       "rating": 4
     },
     {
       "title": "Traguese Ese Sapo! Ed. Revisada",
       "author": "Brian Tracy",
-      "price": "ARS$3.588,16",
+      "price": "15,28 €",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4929/9788492921744.jpg",
       "rating": 4
     },
     {
-      "title": "Aula Internacional Plus",
-      "author": "Jaime Corpas",
-      "price": "ARS$7.978,25",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4182/9788418224461.jpg",
+      "title": "Preparacion DELE",
+      "author": "Andrea Fabiana Hidalgo",
+      "price": "29,12 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490817216.jpg",
       "rating": 0
+    },
+    {
+      "title": "Hábitos atómicos",
+      "author": "James Clear",
+      "price": "28,48 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4181/9788418118036.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Nosotros en la luna. Edición especial",
+      "author": "Alice Kellen",
+      "price": "35,33 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266860.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Birthday Girl",
+      "author": "Penelope Douglas",
+      "price": "17,26 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266709.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Reina de sombras",
+      "author": "MAAS, SARAH J.",
+      "price": "18,99 €PVPR:19,00 €",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9786/0731/9786073152464.jpg",
+      "rating": 4.5
     },
     {
       "title": "LOS ANGELES DEL AMOR",
       "author": "Virtue Doreen",
-      "price": "ARS$5.740,08ARS$6.261,73",
+      "price": "23,15 €PVPR:31,44 €",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9782/8132/9782813217882.jpg",
       "rating": 0
     },
     {
       "title": "Cuando Las Mujeres Comen",
       "author": "Noelia Janet Previtera",
-      "price": "ARS$4.000,52",
+      "price": "13,98 €",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
       "rating": 0
     },
     {
       "title": "POCO PIANO FOR YOUNG CHILDREN",
       "author": "O SULLIVAN FARREL, MARGARET",
-      "price": "ARS$3.319,50",
+      "price": "9,46 €PVPR:9,50 €",
       "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/8343/9789834304829.jpg",
       "rating": 3
+    }
+  ],
+  "25-1-2023": [
+    {
+      "title": "Generacion idiota",
+      "author": "Agustin Laje",
+      "price": "US$19.39",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
+      "rating": 2.5
     },
     {
-      "title": "Nuevo Espanol en Marcha 4: Student Book with CD",
-      "author": "Francisco Castro Viudez",
-      "price": "ARS$9.490,04",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4977/9788497787826.jpg",
+      "title": "Short Stories in Spanish for Beginners",
+      "author": "Olly Richards",
+      "price": "US$10.58US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Short Stories in Spanish for Intermediate Learners",
+      "author": "Olly Richards",
+      "price": "US$10.41US$14.99",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
+      "rating": 4
+    },
+    {
+      "title": "JOJOS BIZARRE ADVENTURE PARTE 7 STEEL BALL RUN 1",
+      "author": "Hirohiko Araki",
+      "price": "US$19.12",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419010124.jpg",
+      "rating": 5
+    },
+    {
+      "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+      "author": "Mo Xiang Tong Xiu",
+      "price": "US$25.57",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Jojo's Bizzarre Adventure Parte 7: Steel Ball Run 02",
+      "author": "Hirohiko Araki",
+      "price": "US$20.20",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4190/9788419096173.jpg",
+      "rating": 5
+    },
+    {
+      "title": "Elysian",
+      "author": "Sugary Pale",
+      "price": "US$18.05US$19.78",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267836.jpg",
       "rating": 0
     },
     {
-      "title": "Nuevo Espanol en Marcha 3: Student Book with CD Level B1: Level 3",
-      "author": "Francisco Castro Viudez",
-      "price": "ARS$9.408,38",
-      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4977/9788497787406.jpg",
-      "rating": 5
+      "title": "Twisted 2 - Twisted Games",
+      "author": "Ana Huang",
+      "price": "US$17.38US$18.74",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
+      "rating": 4
+    },
+    {
+      "title": "EASIEST PIANO COURSE PART ONE",
+      "author": "Willis Music Company",
+      "price": "US$8.83",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8771/9780877180128.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Traguese Ese Sapo! Ed. Revisada",
+      "author": "Brian Tracy",
+      "price": "US$14.23",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4929/9788492921744.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Preparacion DELE",
+      "author": "Andrea Fabiana Hidalgo",
+      "price": "US$32.92",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490817216.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Hábitos atómicos",
+      "author": "James Clear",
+      "price": "US$30.14",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4181/9788418118036.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Nosotros en la luna. Edición especial",
+      "author": "Alice Kellen",
+      "price": "US$45.46",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266860.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Birthday Girl",
+      "author": "Penelope Douglas",
+      "price": "US$19.54",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408266709.jpg",
+      "rating": 4
+    },
+    {
+      "title": "Reina de sombras",
+      "author": "MAAS, SARAH J.",
+      "price": "US$21.65",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9786/0731/9786073152464.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "LOS ANGELES DEL AMOR",
+      "author": "Virtue Doreen",
+      "price": "US$24.84US$34.13",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9782/8132/9782813217882.jpg",
+      "rating": 0
+    },
+    {
+      "title": "Cuando Las Mujeres Comen",
+      "author": "Noelia Janet Previtera",
+      "price": "US$15.41",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
+      "rating": 0
+    },
+    {
+      "title": "POCO PIANO FOR YOUNG CHILDREN",
+      "author": "O SULLIVAN FARREL, MARGARET",
+      "price": "US$10.38",
+      "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9789/8343/9789834304829.jpg",
+      "rating": 3
     }
   ]
 }
