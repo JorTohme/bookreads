@@ -2,210 +2,203 @@
   {
     "title": "Before the Coffee Gets Cold",
     "author": "Toshikazu Kawaguchi",
-    "price": "US$11.38US$12.37",
+    "price": "11,19 €PVPR:13,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
     "rating": 3.5
   },
   {
     "title": "Chain of Thorns",
     "author": "Cassandra Clare",
-    "price": "US$32.40",
+    "price": "25,33 €PVPR:25,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4814/9781481431934.jpg",
     "rating": 4.5
   },
   {
+    "title": "If He Had Been with Me",
+    "author": "Laura Nowlin",
+    "price": "12,52 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7282/9781728205489.jpg",
+    "rating": 4
+  },
+  {
     "title": "The Boy, The Mole, The Fox and The Horse",
     "author": "Charlie Mackesy",
-    "price": "US$20.69US$21.04",
+    "price": "17,34 €PVPR:21,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
     "rating": 4.5
   },
   {
     "title": "12 Rules for Life",
     "author": "Jordan B. Peterson",
-    "price": "US$13.37US$13.61",
+    "price": "12,12 €PVPR:14,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
-    "rating": 4
-  },
-  {
-    "title": "If He Had Been with Me",
-    "author": "Laura Nowlin",
-    "price": "US$13.41",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7282/9781728205489.jpg",
     "rating": 4
   },
   {
     "title": "A Good Girl's Guide to Murder",
     "author": "Holly Jackson",
-    "price": "US$11.18",
+    "price": "10,24 €PVPR:10,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4052/9781405293181.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "The Last Hours: Chain of Thorns",
+    "author": "Cassandra Clare",
+    "price": "31,77 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4063/9781406358117.jpg",
     "rating": 4.5
   },
   {
     "title": "If We Were Villains: The Sensational TikTok Book Club pick",
     "author": "M. L. Rio",
-    "price": "US$12.03",
+    "price": "10,84 €PVPR:11,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7856/9781785656477.jpg",
-    "rating": 4
-  },
-  {
-    "title": "The Way I Used to Be",
-    "author": "Amber Smith",
-    "price": "US$10.80US$11.13",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8615/9780861546732.jpg",
     "rating": 4
   },
   {
     "title": "Once Upon A Broken Heart",
     "author": "Stephanie Garber",
-    "price": "US$10.42US$11.13",
+    "price": "9,22 €PVPR:11,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529380941.jpg",
+    "rating": 4
+  },
+  {
+    "title": "The Way I Used to Be",
+    "author": "Amber Smith",
+    "price": "9,73 €PVPR:11,50 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8615/9780861546732.jpg",
     "rating": 4
   },
   {
     "title": "Girl in Pieces",
     "author": "Kathleen Glasgow",
-    "price": "US$11.21",
+    "price": "9,84 €PVPR:11,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780749457.jpg",
     "rating": 4
   },
   {
-    "title": "The Last Hours: Chain of Thorns",
-    "author": "Cassandra Clare",
-    "price": "US$21.51",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4063/9781406358117.jpg",
-    "rating": 4.5
-  },
-  {
     "title": "Better Than the Movies",
     "author": "Lynn Painter",
-    "price": "US$11.45US$12.99",
+    "price": "10,62 €PVPR:15,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5344/9781534467637.jpg",
     "rating": 4.5
   },
   {
-    "title": "The Last Hours: Chain of Thorns",
-    "author": "Cassandra Clare",
-    "price": "US$36.03",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5295/9781529511031.jpg",
+    "title": "Heartstopper Volume 1",
+    "author": "Alice Oseman",
+    "price": "18,29 €PVPR:21,00 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4449/9781444968934.jpg",
     "rating": 4.5
   },
   {
     "title": "Montgomery Bonbon: Murder at the Museum",
     "author": "Alasdair Beckett-King",
-    "price": "US$9.43US$9.89",
+    "price": "8,71 €PVPR:10,00 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5295/9781529501049.jpg",
     "rating": 4
   },
   {
     "title": "Let's Celebrate Holi! (Maya & Neel's India Adventure Series, Book 3)",
     "author": "Ajanta Chakraborty",
-    "price": "US$13.58",
+    "price": "12,63 €PVPR:13,40 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/9457/9781945792168.jpg",
     "rating": 4.5
   },
   {
     "title": "Holi Colors",
     "author": "Rina Singh",
-    "price": "US$12.29",
+    "price": "11,12 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4598/9781459818491.jpg",
     "rating": 4
   },
   {
-    "title": "Heartstopper Volume 1",
-    "author": "Alice Oseman",
-    "price": "US$21.75",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4449/9781444968934.jpg",
-    "rating": 4.5
-  },
-  {
     "title": "The Stolen Heir",
     "author": "Holly Black",
-    "price": "US$17.88US$21.04",
+    "price": "19,99 €PVPR:21,00 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4714/9781471410727.jpg",
     "rating": 4
   },
   {
-    "title": "Everything I Never Told You",
-    "author": "Celeste Ng",
-    "price": "US$15.16",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3491/9780349134284.jpg",
-    "rating": 4
-  },
-  {
-    "title": "The Invisible String",
-    "author": "Patrice Karst",
-    "price": "US$10.06",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3164/9780316486231.jpg",
-    "rating": 4.5
-  },
-  {
-    "title": "Six Crimson Cranes",
-    "author": "Elizabeth Lim",
-    "price": "US$10.81US$11.13",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529356571.jpg",
-    "rating": 4.5
-  },
-  {
-    "title": "As Good As Dead",
+    "title": "Good Girl, Bad Blood",
     "author": "Holly Jackson",
-    "price": "US$13.15",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4052/9781405298605.jpg",
-    "rating": 4
+    "price": "9,94 €PVPR:10,50 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4052/9781405297752.jpg",
+    "rating": 4.5
   },
   {
     "title": "Giraffes Can't Dance",
     "author": "Giles Andreae",
-    "price": "US$16.38",
+    "price": "7,98 €PVPR:9,00 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8412/9781841215655.jpg",
-    "rating": 4.5
-  },
-  {
-    "title": "Mysteries of Thorn Manor",
-    "author": "Margaret Rogerson",
-    "price": "US$14.86US$14.99",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6659/9781665935616.jpg",
-    "rating": 4.5
-  },
-  {
-    "title": "What to Do When You Worry Too Much",
-    "author": "Dawn Huebner",
-    "price": "US$16.99",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5914/9781591473145.jpg",
-    "rating": 4.5
-  },
-  {
-    "title": "A Psalm for the Wild-Built",
-    "author": "Becky Chambers",
-    "price": "US$15.64US$20.99",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/2502/9781250236210.jpg",
     "rating": 4.5
   },
   {
     "title": "The Ballad of Never After",
     "author": "Stephanie Garber",
-    "price": "US$18.79US$21.04",
+    "price": "14,99 €PVPR:21,00 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529380965.jpg",
     "rating": 4.5
   },
   {
-    "title": "Tales from the Cafe",
-    "author": "Toshikazu Kawaguchi",
-    "price": "US$11.29US$12.37",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529050868.jpg",
+    "title": "The Invisible String",
+    "author": "Patrice Karst",
+    "price": "9,20 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3164/9780316486231.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "As Good As Dead",
+    "author": "Holly Jackson",
+    "price": "11,15 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4052/9781405298605.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Six Crimson Cranes",
+    "author": "Elizabeth Lim",
+    "price": "9,28 €PVPR:11,50 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529356571.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "A Psalm for the Wild-Built",
+    "author": "Becky Chambers",
+    "price": "17,09 €PVPR:21,50 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/2502/9781250236210.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Everything I Never Told You",
+    "author": "Celeste Ng",
+    "price": "9,18 €PVPR:11,50 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3491/9780349134284.jpg",
     "rating": 4
   },
   {
     "title": "A Court of Thorns and Roses",
     "author": "Sarah J. Maas",
-    "price": "US$11.52",
+    "price": "10,51 €PVPR:11,50 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5266/9781526605399.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Mysteries of Thorn Manor",
+    "author": "Margaret Rogerson",
+    "price": "14,75 €PVPR:15,50 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6659/9781665935616.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Tales from the Cafe",
+    "author": "Toshikazu Kawaguchi",
+    "price": "11,17 €PVPR:13,50 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529050868.jpg",
     "rating": 4
   },
   {
     "title": "The Cruel Prince (The Folk of the Air)",
     "author": "Holly Black",
-    "price": "US$9.39US$11.13",
+    "price": "12,83 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4714/9781471407277.jpg",
     "rating": 4
   }

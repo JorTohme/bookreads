@@ -1,135 +1,142 @@
 [
   {
-    "title": "Short Stories in Spanish for Beginners",
-    "author": "Olly Richards",
-    "price": "US$10.24US$14.99",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4736/9781473683259.jpg",
-    "rating": 4
-  },
-  {
     "title": "Twisted 2. Twisted Games",
     "author": "Ana Huang",
-    "price": "US$34.92",
+    "price": "28,88 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267041.jpg",
     "rating": 4
   },
   {
     "title": "El Arte De Ser Nosotros",
     "author": "Inma Rubiales",
-    "price": "US$17.35US$18.70",
+    "price": "17,21 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4082/9788408267928.jpg",
     "rating": 4.5
   },
   {
     "title": "Generacion idiota",
     "author": "Agustin Laje",
-    "price": "US$20.96",
+    "price": "18,20 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4002/9781400238569.jpg",
     "rating": 2.5
   },
   {
-    "title": "Short Stories in Spanish for Intermediate Learners",
-    "author": "Olly Richards",
-    "price": "US$10.40US$14.99",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
-    "rating": 4
-  },
-  {
-    "title": "Practice Makes Perfect: Complete Spanish Grammar, Premium Fourth Edition",
-    "author": "Gilda Nissenberg",
-    "price": "US$20.16",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/2604/9781260463156.jpg",
-    "rating": 4.5
-  },
-  {
-    "title": "Especial DELE B2 Curso completo - libro + audio descargable",
-    "author": "Pilar Alzugaray",
-    "price": "US$44.12",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490816806.jpg",
-    "rating": 4
-  },
-  {
-    "title": "Aula Internacional Plus",
-    "author": "Jaime Corpas",
-    "price": "US$48.20",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4180/9788418032189.jpg",
-    "rating": 0
-  },
-  {
     "title": "Volver a Empezar / It Starts with Us (Spanish Edition)",
     "author": "Colleen Hoover",
-    "price": "US$22.61",
+    "price": "20,77 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9786/0707/9786070796746.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Short Stories in Spanish for Intermediate Learners",
+    "author": "Olly Richards",
+    "price": "12,99 €PVPR:14,00 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529361810.jpg",
     "rating": 4
   },
   {
     "title": "Credence",
     "author": "Penelope Douglas",
-    "price": "US$26.34",
+    "price": "21,13 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/8494/9798849447919.jpg",
     "rating": 3.5
   },
   {
-    "title": "Manual Practico del Pastoreo Racional Voisin (PRV)",
-    "author": "Michael Rua Franco",
-    "price": "US$33.19US$35.00",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/5027/9798502797627.jpg",
-    "rating": 5
-  },
-  {
-    "title": "Muñecas del Zodiaco tejidas a ganchillo",
-    "author": "Carla Mitrani",
-    "price": "US$32.02US$34.17",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4987/9788498747355.jpg",
-    "rating": 0
-  },
-  {
-    "title": "Especial DELE B2 Curso completo - Transcripciones y Respuestas (sin CD)",
+    "title": "Especial DELE B2 Curso completo - libro + audio descargable",
     "author": "Pilar Alzugaray",
-    "price": "US$20.70",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490816882.jpg",
-    "rating": 0
-  },
-  {
-    "title": "La liberación del alma : el viaje más allá de ti mismo",
-    "author": "Michael A. Singer",
-    "price": "US$19.62",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484455110.jpg",
+    "price": "36,37 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490816806.jpg",
     "rating": 4
   },
   {
     "title": "CHAINSAW MAN 12",
     "author": "Tatsuki Fujimoto",
-    "price": "US$16.39",
+    "price": "14,93 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467959741.jpg",
     "rating": 4.5
   },
   {
     "title": "Chainsaw Man 4",
     "author": "Tatsuki Fujmoto",
-    "price": "US$15.63",
+    "price": "13,88 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467944174.jpg",
     "rating": 4.5
   },
   {
-    "title": "Camino Portugues Maps",
-    "author": "John Brierley",
-    "price": "US$12.78US$19.99",
-    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/9122/9781912216147.jpg",
+    "title": "Practice Makes Perfect: Complete Spanish Grammar, Premium Fourth Edition",
+    "author": "Gilda Nissenberg",
+    "price": "15,27 €PVPR:18,00 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/2604/9781260463156.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Manual Practico del Pastoreo Racional Voisin (PRV)",
+    "author": "Michael Rua Franco",
+    "price": "31,40 €PVPR:31,85 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/5027/9798502797627.jpg",
+    "rating": 5
+  },
+  {
+    "title": "Cuando Las Mujeres Comen",
+    "author": "Noelia Janet Previtera",
+    "price": "13,79 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9798/3613/9798361328277.jpg",
     "rating": 0
+  },
+  {
+    "title": "Muñecas del Zodiaco tejidas a ganchillo",
+    "author": "Carla Mitrani",
+    "price": "30,04 €PVPR:31,44 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4987/9788498747355.jpg",
+    "rating": 0
+  },
+  {
+    "title": "Especial DELE B2 Curso completo - Transcripciones y Respuestas (sin CD)",
+    "author": "Pilar Alzugaray",
+    "price": "18,40 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4908/9788490816882.jpg",
+    "rating": 0
+  },
+  {
+    "title": "La liberación del alma : el viaje más allá de ti mismo",
+    "author": "Michael A. Singer",
+    "price": "17,84 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4844/9788484455110.jpg",
+    "rating": 4
   },
   {
     "title": "EASIEST PIANO COURSE PART ONE",
     "author": "Willis Music Company",
-    "price": "US$8.86",
+    "price": "8,83 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/8771/9780877180128.jpg",
     "rating": 4
   },
   {
     "title": "Donde Esta La Oveja Verde?/Where Is the Green Sheep?",
     "author": "Mem Fox",
-    "price": "US$7.38",
+    "price": "7,73 €",
     "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5473/9780547396941.jpg",
     "rating": 4
+  },
+  {
+    "title": "Me Alegro De Que Mi Madre Haya Muerto",
+    "author": "Jennette McCurdy",
+    "price": "16,83 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4929/9788492917143.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "GRANDMASTER OF DEMONIC CULTIVATION 01 (MO DAO ZU SHI)",
+    "author": "Mo Xiang Tong Xiu",
+    "price": "22,24 €PVPR:22,98 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4679/9788467960068.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Donde El Silencio Se Rompe",
+    "author": "Susanna Herrero",
+    "price": "17,21 €",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9788/4270/9788427050716.jpg",
+    "rating": 0
   }
 ]
