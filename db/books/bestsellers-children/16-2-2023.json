@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Before the Coffee Gets Cold",
+    "author": "Toshikazu Kawaguchi",
+    "price": "US$11.08US$12.05",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5290/9781529029581.jpg",
+    "rating": 3.5
+  },
+  {
+    "title": "Chain of Thorns",
+    "author": "Cassandra Clare",
+    "price": "US$30.67",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4814/9781481431934.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "price": "US$13.02US$13.26",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141988511.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Girl in Pieces",
+    "author": "Kathleen Glasgow",
+    "price": "US$11.97",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7807/9781780749457.jpg",
+    "rating": 4
+  },
+  {
+    "title": "The Boy, The Mole, The Fox and The Horse",
+    "author": "Charlie Mackesy",
+    "price": "US$20.15US$20.49",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5291/9781529105100.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Just Like You, only a little more different.",
+    "author": "Brook Seal",
+    "price": "US$15.75US$16.85",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/9228/9781922803344.jpg",
+    "rating": 0
+  },
+  {
+    "title": "A Good Girl's Guide to Murder",
+    "author": "Holly Jackson",
+    "price": "US$10.89",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4052/9781405293181.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Heartstopper Volume 1",
+    "author": "Alice Oseman",
+    "price": "US$16.61US$20.49",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4449/9781444968934.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "The Invisible String",
+    "author": "Patrice Karst",
+    "price": "US$9.28",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3164/9780316486231.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Queer Chameleon and Friends",
+    "author": "Amee Wilson",
+    "price": "US$29.79",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7613/9781761340178.jpg",
+    "rating": 0
+  },
+  {
+    "title": "Better Than the Movies",
+    "author": "Lynn Painter",
+    "price": "US$11.15US$12.99",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5344/9781534467637.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Once Upon A Broken Heart",
+    "author": "Stephanie Garber",
+    "price": "US$10.15US$10.84",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529380941.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Giraffes Can't Dance",
+    "author": "Giles Andreae",
+    "price": "US$13.56",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8412/9781841215655.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "The Last Hours: Chain of Thorns",
+    "author": "Cassandra Clare",
+    "price": "US$20.96",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4063/9781406358117.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "price": "US$8.92US$9.48",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/2410/9780241003008.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "If We Were Villains: The Sensational TikTok Book Club pick",
+    "author": "M. L. Rio",
+    "price": "US$11.13",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7856/9781785656477.jpg",
+    "rating": 4
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "price": "US$11.22",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5266/9781526605399.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Good Girl, Bad Blood",
+    "author": "Holly Jackson",
+    "price": "US$10.51US$10.84",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4052/9781405297752.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Crooked Kingdom Collector's Edition",
+    "author": "Leigh Bardugo",
+    "price": "US$19.01US$20.49",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5101/9781510107038.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "price": "US$18.30",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5713/9780571373079.jpg",
+    "rating": 4
+  },
+  {
+    "title": "The Cruel Prince (The Folk of the Air)",
+    "author": "Holly Black",
+    "price": "US$8.85US$10.84",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4714/9781471407277.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Harry Potter Box Set: The Complete Collection (Children's Paperback)",
+    "author": "J. K. Rowling",
+    "price": "US$76.14US$259.95",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4088/9781408856772.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Belladonna",
+    "author": "Adalyn Grace",
+    "price": "US$18.52US$20.49",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529367119.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "price": "US$10.37US$10.84",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5266/9781526622433.jpg",
+    "rating": 4
+  },
+  {
+    "title": "I Wish I Knew",
+    "author": "Donna Ashworth",
+    "price": "US$9.95US$16.99",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7853/9781785303791.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Look Inside Your Body",
+    "author": "Louie Stowell",
+    "price": "US$14.53US$15.69",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4095/9781409549475.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "price": "US$9.91US$15.64",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4088/9781408855652.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "The Dragon's Promise",
+    "author": "Elizabeth Lim",
+    "price": "US$19.02US$20.49",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529356786.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Six of Crows: Collector's Edition",
+    "author": "Leigh Bardugo",
+    "price": "US$19.16US$20.49",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5101/9781510106284.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Dead Poets Society",
+    "author": "N.H. Kleinbaum",
+    "price": "US$8.99",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4013/9781401308773.jpg",
+    "rating": 4
+  }
+]
