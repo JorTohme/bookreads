@@ -13,7 +13,7 @@
 
 El proyecto Bookreads es un monorepo que contiene un Scrapper, una API y una página web. El scrapper obtiene información de libros de la página web [Bookdepository](https://www.bookdepository.com/) y la API distribuída en Cloudflare la devuelve en formato JSON. La página web muestra los libros obtenidos de la API con un sistema de reseñas y en un futuro **análisis de los datos obtenidos a lo largo del tiempo** respecto a los libros más vendidos, los más valorados, etc.
 
-La idea del proyecto nace al ver el proyecto de la [Kings League Infojobs](https://github.com/midudev/kings-league-project) de Midudev (programador al cual sigo, aprendo y admiro) y querer hacer algo parecido pero con libros. Además, me gustaría añadir *data analysis* a los datos obtenidos a lo largo del tiempo.
+La idea del proyecto nace al ver el proyecto de la Kings League Infojobs) de Midudev y querer hacer algo parecido pero con libros. Además, me gustaría añadir *data analysis* a los datos obtenidos a lo largo del tiempo.
 
 ## Tecnologías usadas
 
