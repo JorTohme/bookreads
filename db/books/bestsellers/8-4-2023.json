@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "price": "US$10.81US$12.40",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8049/9781804990926.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Six of Crows: Collector's Edition",
+    "author": "Leigh Bardugo",
+    "price": "US$16.79US$21.09",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5101/9781510106284.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": "US$17.61US$22.33",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8479/9781847941831.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Crooked Kingdom Collector's Edition",
+    "author": "Leigh Bardugo",
+    "price": "US$16.52US$21.09",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5101/9781510107038.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Once Upon A Broken Heart",
+    "author": "Stephanie Garber",
+    "price": "US$10.69US$11.16",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5293/9781529380941.jpg",
+    "rating": 4
+  },
+  {
+    "title": "The Letters I Will Never Send",
+    "author": "Isabella Dorta",
+    "price": "US$27.15",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/5299/9781529901061.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Small Things Like These",
+    "author": "Claire Keegan",
+    "price": "US$8.97US$11.16",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5713/9780571368709.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "price": "US$9.43US$11.16",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3985/9781398515697.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "The Creative Act",
+    "author": "Rick Rubin",
+    "price": "US$22.17US$31.04",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/8388/9781838858636.jpg",
+    "rating": 4
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "price": "US$13.90US$16.13",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1419/9780141978611.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Daisy Jones and The Six",
+    "author": "Taylor Jenkins Reid",
+    "price": "US$10.99US$12.40",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/7874/9781787462144.jpg",
+    "rating": 4
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "price": "US$12.10US$14.22",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/1401/9780140167771.jpg",
+    "rating": 4
+  },
+  {
+    "title": "It Ends With Us: The most heartbreaking novel you'll ever read",
+    "author": "Colleen Hoover",
+    "price": "US$9.35US$11.10",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/4711/9781471156267.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Things We Never Got Over",
+    "author": "Lucy Score",
+    "price": "US$18.43",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713740.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Foster",
+    "author": "Claire Keegan",
+    "price": "US$8.71US$11.16",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/5713/9780571379149.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Twisted Games",
+    "author": "Ana Huang",
+    "price": "US$9.56US$12.40",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434315.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Things We Hide From The Light",
+    "author": "Lucy Score",
+    "price": "US$9.66US$11.16",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/3997/9781399713771.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Twisted Lies",
+    "author": "Ana Huang",
+    "price": "US$10.10US$12.40",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434285.jpg",
+    "rating": 4.5
+  },
+  {
+    "title": "Twisted Love",
+    "author": "Ana Huang",
+    "price": "US$9.10US$12.40",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434278.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Twisted Hate",
+    "author": "Ana Huang",
+    "price": "US$9.88US$12.40",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/3494/9780349434339.jpg",
+    "rating": 4
+  },
+  {
+    "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 5",
+    "author": "Mo Xiang Tong Xiu",
+    "price": "US$16.75US$19.99",
+    "coverImg": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9781/6385/9781638585503.jpg",
+    "rating": 4.5
+  }
+]
