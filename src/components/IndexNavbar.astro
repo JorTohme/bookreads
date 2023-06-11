@@ -1,7 +1,8 @@
 ---
 import hpphrases from './assets/hpphrases.json'
+import { API_URL } from '../../env.json'
 
-const bestselledThisWeekRes = await fetch('https://api.bookreads.dev/bestselled-this-week')
+const bestselledThisWeekRes = await fetch(`${API_URL}/bestselled-this-week`)
 const bestselledThisWeek = await bestselledThisWeekRes.json()
 
 const keys = Object.keys(hpphrases);
