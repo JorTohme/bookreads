@@ -1,4 +1,7 @@
 <div align="center">
+<h1>Bookreads dejó de funcionar debido al cierra de Bookdepository 😢</h1>
+
+  
 <h1>Bookreads Project</h1>
 
 [![Scrap Bookdepository](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/npm-run-scrapper.yml) [![Deploy API](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml/badge.svg?branch=main)](https://github.com/JorTohme/bookreads/actions/workflows/cloudflare-workers.yml)
