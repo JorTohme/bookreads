@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Bookreads dejó de funcionar debido al cierra de Bookdepository 😢</h1>
+<h1>Bookreads dejó de funcionar debido al cierre de Bookdepository 😢</h1>
 
   
 <h1>Bookreads Project</h1>
